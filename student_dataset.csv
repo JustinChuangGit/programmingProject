@@ -1,0 +1,1001 @@
+StudentName,StudentNumber,CourseName,CourseCode,Grades,CourseWeight,Instructor,Department,UniversityName,Location,Ranking
+Brice Suggs,103626,CLINICAL PSYCHOLOGY,1106,89,1.0,Elisa Daley,Industrial Arts & Consumer Services,Rio de Janeiro State University (UERJ),Denmark,127
+Raul Gray,645410,NUTRITION SCIENCES,5002,20,1.0,Heidi Malone,Education,University of Haifa,Russian Federation,373
+Kathi Senters,973176,BUSINESS ECONOMICS,1301,11,0.5,Lewis Knudsen,Biology & Life Science,Pontifical Catholic University of Chile,Portugal,537
+Gladys Dugas,885440,COMPUTER SCIENCE,5507,31,1.0,Jeremy Gough,Social Science,Purdue University,Slovakia,36
+Kenneth Burke,170627,PUBLIC ADMINISTRATION,2308,12,1.0,Edward Gentry,Computers & Mathematics,University of Westminster,Netherlands,586
+James Brooks,292105,MISCELLANEOUS BUSINESS & MEDICAL ADMINISTRATION,3604,35,1.0,David Bensen,Humanities & Liberal Arts,University of KwaZulu-Natal,Colombia,98
+Raymond Munoz,274443,PHYSIOLOGY,6002,64,0.5,Barbara Lucio,Biology & Life Science,University of Minho,Ukraine,199
+Retha Smith,320982,MEDICAL ASSISTING SERVICES,3501,71,0.5,Daisy Hatcher,Biology & Life Science,Federal University of São Carlos,United Kingdom,751
+Joyce Kerrick,113631,ELECTRICAL ENGINEERING,6206,59,1.0,Jessie Thomas,Biology & Life Science,Polytechnic University of Valencia,United States of America,193
+Andrew Griffin,806439,OTHER FOREIGN LANGUAGES,2601,15,1.0,Heather Gonzalez,Engineering,Flinders University,United Kingdom,538
+James Matthews,862394,ELECTRICAL ENGINEERING,6100,52,1.0,Sergio Orem,Education,University of Waterloo,India,725
+Lonnie Johnston,366632,NUCLEAR ENGINEERING,6212,17,0.5,Roland Swindler,Computers & Mathematics,University of Reading,Chile,550
+Darrell Hightower,715401,HISTORY,6105,11,0.5,Perry Pena,Engineering,McMaster University,United States of America,197
+Christopher Hansen,312847,MINING AND MINERAL ENGINEERING,2602,67,1.0,Guillermo Cribb,Biology & Life Science,Clemson University,Portugal,308
+Betty Reiss,687915,FOOD SCIENCE,4801,6,0.5,Dwayne Barrera,Health,University of Haifa,Spain,286
+James Shearer,760783,CIVIL ENGINEERING,2307,34,0.5,Vilma Cabot,Biology & Life Science,The Open University,Russian Federation,119
+Alisha Miles,964276,COMMUNITY AND PUBLIC HEALTH,5505,20,0.5,Kyle Jones,Business,University of Arkansas,Brazil,19
+Estelle Cowart,318037,COMPUTER AND INFORMATION SYSTEMS,2405,61,1.0,John Barber,Industrial Arts & Consumer Services,University of Parma,Germany,322
+Randell Carrillo,176513,METALLURGICAL ENGINEERING,5003,39,0.5,Philip Woodall,Computers & Mathematics,King Saud University,Taiwan,94
+Victor Omalley,228231,COMPUTER PROGRAMMING AND DATA PROCESSING,3700,86,1.0,Mildred Jennings,Humanities & Liberal Arts,University of East Anglia,United Kingdom,358
+Kendra Gonzales,453979,FOOD SCIENCE,1103,22,1.0,Marion Wiggin,Education,Edith Cowan University,China,14
+Robert Smith,537597,ANIMAL SCIENCES,5004,62,1.0,Rodney Plumb,Biology & Life Science,University of Bari Aldo Moro,Hungary,248
+Vickie Lafferty,392632,MISCELLANEOUS ENGINEERING TECHNOLOGIES,5404,91,0.5,Patricia Floyd,Interdisciplinary,Shanghai University,China,192
+Sharron Higdon,557954,MISCELLANEOUS EDUCATION,1301,63,1.0,Donald Carlson,Business,Texas A&M University,United Kingdom,265
+James Mays,240852,GENERAL AGRICULTURE,5200,97,0.5,Tyrone Delatorre,Education,Oxford Brookes University,Republic of Ireland,784
+Martin Rosenthal,181913,SOIL SCIENCE,2416,61,0.5,Michael Turner,Engineering,University of Houston,Canada,245
+Heather Greenwood,629810,COMPUTER SCIENCE,2405,54,1.0,Janice Townsend,Physical Sciences,University of Pittsburgh,United Kingdom,348
+Kristin Votaw,578488,CHEMISTRY,2301,54,0.5,Stephen Holst,Industrial Arts & Consumer Services,Nanyang Technological University,United States of America,76
+Kevin Richardson,161535,EDUCATIONAL PSYCHOLOGY,2001,23,0.5,Gloria Buckley,Social Science,University of Szeged,China,456
+Ralph Williams,604025,MISCELLANEOUS SOCIAL SCIENCES,3501,13,1.0,Heather Allen,Engineering,Chang Gung University,Italy,167
+Robert Elliott,302929,GENERAL ENGINEERING,3202,6,0.5,Shirley Kelly,Business,University of Seoul,United Kingdom,775
+Brittany Taylor,243386,PRE-LAW AND LEGAL STUDIES,2300,12,1.0,June Hartley,Biology & Life Science,Tel Aviv University,South Korea,542
+William Baillargeon,259461,BOTANY,3702,69,0.5,Retha Smith,Education,National Cheng Kung University,Sweden,636
+Betsy Vaughn,751885,FILM VIDEO AND PHOTOGRAPHIC ARTS,2309,25,1.0,Anita Hernandez,Business,Indian Institute of Technology Roorkee,Taiwan,698
+Alan Perez,775375,FRENCH GERMAN LATIN AND OTHER COMMON FOREIGN LANGUAGE STUDIES,6007,72,0.5,Linda Steger,Education,Kansas State University,Switzerland,11
+Lorene Martin,122967,GENETICS,2419,78,0.5,Bobby Simpson,Engineering,Delft University of Technology,Australia,215
+Brian Reyes,957821,MISCELLANEOUS PSYCHOLOGY,6002,50,1.0,Freddy Hartman,Biology & Life Science,University of New Mexico,Spain,589
+Daisy Hatcher,930738,AGRICULTURE PRODUCTION AND MANAGEMENT,2406,20,1.0,Ami Bell,Humanities & Liberal Arts,University of South Carolina,United States of America,582
+Shirley Odum,924972,SOIL SCIENCE,6007,47,0.5,Kerri Lowery,Biology & Life Science,Pontifical Catholic University of Chile,Greece,598
+Leon Dana,364017,DRAMA AND THEATER ARTS,2307,93,1.0,John Stradley,Biology & Life Science,VU University Amsterdam,Japan,32
+Robert Forrester,956674,GENERAL ENGINEERING,2411,14,0.5,Betsy Sims,Education,Deakin University,Spain,535
+Tyson McVay,711314,NUTRITION SCIENCES,4001,10,0.5,Vernon Dickerson,Engineering,University of Chicago,Germany,789
+Tiffany Rowsey,517350,NAVAL ARCHITECTURE AND MARINE ENGINEERING,1199,81,0.5,Lucille Humble,Humanities & Liberal Arts,Panthéon-Sorbonne University – Paris 1,China,488
+George Correa,925125,POLITICAL SCIENCE AND GOVERNMENT,5505,5,0.5,William Reed,Social Science,University of the West of England,Kenya,274
+Joe Lopez,386160,DRAMA AND THEATER ARTS,6201,51,1.0,Michael Weller,Humanities & Liberal Arts,University of Hertfordshire,United States of America,696
+Anderson Richardson,169594,INDUSTRIAL AND MANUFACTURING ENGINEERING,2399,67,1.0,Thomas Martinez,Psychology & Social Work,University of Canberra,Canada,275
+Thomas Jessup,166313,MEDICAL ASSISTING SERVICES,6109,3,1.0,Eva Reid,Psychology & Social Work,Central Queensland University,Germany,372
+Adrian Romeo,677825,COMMUNICATIONS,5205,31,0.5,Vernon Dickerson,Humanities & Liberal Arts,Medical University of South Carolina,China,553
+Broderick Callen,127029,TEACHER EDUCATION: MULTIPLE LEVELS,1302,41,1.0,Angela Freeman,Psychology & Social Work,Georgia Health Sciences University,United Kingdom,527
+Sadie Rodriguez,984913,ASTRONOMY AND ASTROPHYSICS,5505,27,1.0,Era Rivera,Industrial Arts & Consumer Services,University of Ghana,Germany,389
+Evelyn Grant,535654,THEOLOGY AND RELIGIOUS VOCATIONS,5102,70,1.0,Bertha Curtis,Psychology & Social Work,Case Western Reserve University,Turkey,193
+Rene Page,109417,NATURAL RESOURCES MANAGEMENT,3611,85,0.5,Heather Greenwood,Humanities & Liberal Arts,Princeton University,United States of America,563
+James Pepper,392280,SOCIAL WORK,5501,92,1.0,Karen Peter,Industrial Arts & Consumer Services,Yokohama City University,China,677
+Renee Delvecchio,482850,CRIMINAL JUSTICE AND FIRE PROTECTION,6102,8,1.0,Robert Halley,Education,University of Tokyo,South Africa,578
+John Langford,142437,STUDIO ARTS,2303,63,0.5,Cynthia Williams,Education,Michigan State University,Japan,296
+Roberto Guzman,847712,ELECTRICAL ENGINEERING,3202,95,0.5,Roberto Guzman,Communications & Journalism,University of Rennes 1,United States of America,141
+Olga Bradley,572682,COMPOSITION AND RHETORIC,4002,39,0.5,Victor Omalley,Social Science,Federal University of Paraná (UFPR),Sweden,76
+Clayton Hall,276222,MARKETING AND MARKETING RESEARCH,6110,63,0.5,Marianne Crockett,Agriculture & Natural Resources,Middlesex University,United States of America,343
+Albert Endres,691309,INTERDISCIPLINARY SOCIAL SCIENCES,3608,20,1.0,Steven Whitaker,Education,National Chiao Tung University,Canada,752
+Amber Hall,407730,SOIL SCIENCE,2403,73,1.0,Lance Fossum,Engineering,King Mongkut’s University of Technology Thonburi,Switzerland,280
+Ada Burger,358510,INTERNATIONAL RELATIONS,6110,94,0.5,James Vath,Engineering,Pontifical Catholic University of Valparaíso,United States of America,440
+Betsy Sims,247014,PHYSICAL SCIENCES,5003,10,0.5,Ruth Lane,Humanities & Liberal Arts,Boğaziçi University,China,243
+Michelle Bland,834800,PUBLIC ADMINISTRATION,1103,16,1.0,Christopher Hansen,Humanities & Liberal Arts,Georgetown University,Germany,808
+Jason Owens,763453,STUDIO ARTS,2300,0,1.0,Dwayne Barrera,Engineering,Kanazawa University,Taiwan,675
+Wilbert Jennings,133461,CONSTRUCTION SERVICES,5299,76,1.0,Michael Anderson,Social Science,National Chung Cheng University,Canada,68
+James Pepper,850589,FINE ARTS,6007,61,0.5,Mark Clark,Computers & Mathematics,Nanjing University,Germany,341
+Marilyn Rochester,969174,GEOGRAPHY,5001,11,1.0,Melvin Berkowitz,Biology & Life Science,University of Pardubice,Finland,158
+Dan Lee,977146,HEALTH AND MEDICAL ADMINISTRATIVE SERVICES,2401,65,0.5,William Brown,Biology & Life Science,University of Essex,Australia,286
+Glen Ali,384027,ART HISTORY AND CRITICISM,2601,8,1.0,Marilyn Rochester,Arts,University of Minnesota,United Kingdom,240
+Gertrude Robinson,221747,ART AND MUSIC EDUCATION,6211,42,1.0,Joseph Larsen,Computers & Mathematics,Durham University,Brazil,38
+Charles Burnett,466121,NUCLEAR ENGINEERING,5001,4,0.5,Latonya Doll,Engineering,University of Limerick,Japan,200
+Lucas Palmer,607925,EDUCATIONAL ADMINISTRATION AND SUPERVISION,6099,86,0.5,Mary Gerow,Biology & Life Science,Swansea University,Japan,481
+Mark Thompson,726566,INTERCULTURAL AND INTERNATIONAL STUDIES,4005,12,1.0,Tracy Yates,Computers & Mathematics,Wageningen University and Research Center,United States of America,330
+Jose Murphy,892776,INDUSTRIAL AND ORGANIZATIONAL PSYCHOLOGY,2500,43,1.0,George Torres,Engineering,University at Buffalo,Spain,151
+Anna Ramirez,682455,PLANT SCIENCE AND AGRONOMY,6203,62,0.5,Wilma Russell,Health,Florida Institute of Technology,United States of America,435
+Ada Burger,861960,ENVIRONMENTAL SCIENCE,1903,52,0.5,Ronald McCullough,Health,University of Zurich,Taiwan,639
+Rick Evans,975543,ELEMENTARY EDUCATION,2101,65,0.5,Angie Nadler,Communications & Journalism,Boston University,Japan,239
+Melba West,973425,TREATMENT THERAPY PROFESSIONS,3201,45,0.5,William Clark,Engineering,University of Freiburg,United Kingdom,191
+Darrell Hightower,140342,ACCOUNTING,1105,29,0.5,Betty Patrick,Social Science,University of Western Ontario,Belgium,466
+Stacey George,246477,HUMANITIES,2101,1,1.0,Clyde Navarre,Engineering,Alexandru Ioan Cuza University,United States of America,422
+Andrew Griffin,742342,COURT REPORTING,1901,75,0.5,Kyle Jones,Education,Universiti Sains Malaysia,South Africa,815
+Annie Randall,664456,COMMUNICATION DISORDERS SCIENCES AND SERVICES,1901,14,0.5,Donald Carlson,Arts,Durham University,United Kingdom,493
+Daniel Host,356462,STUDIO ARTS,2403,62,1.0,John Carey,Industrial Arts & Consumer Services,Marche Polytechnic University,Australia,422
+Ernestine Crowe,852082,SOIL SCIENCE,2101,30,1.0,Doris Potts,Industrial Arts & Consumer Services,Bournemouth University,United Kingdom,790
+Erika Smith,134308,MATHEMATICS AND COMPUTER SCIENCE,1501,29,1.0,Frank Makela,Humanities & Liberal Arts,University of Surrey,Japan,80
+Myrtle Perez,973575,HOSPITALITY MANAGEMENT,2601,52,1.0,Andrea Smith,Social Science,Nanjing University,United States of America,671
+Christopher Durant,545096,LIBRARY SCIENCE,6211,24,0.5,Louis Brown,Communications & Journalism,Wageningen University and Research Center,Brazil,65
+Juanita Robinson,996317,SOCIAL PSYCHOLOGY,6212,88,1.0,Jason Emrick,Humanities & Liberal Arts,University of Pécs,Poland,737
+Dorothy Fernandez,374848,PHYSICAL AND HEALTH EDUCATION TEACHING,2415,68,0.5,Michelle Branson,Social Science,Vanderbilt University,Japan,704
+Maureen King,612391,MECHANICAL ENGINEERING,2401,99,0.5,Daniel Walker,Health,Karolinska Institute,United States of America,813
+Mary Eastman,696810,NUCLEAR ENGINEERING,2310,67,0.5,Suzette Childs,Biology & Life Science,University of Texas at Arlington,United States of America,602
+Carol Thomas,326844,GENERAL BUSINESS,2305,25,1.0,James Pepper,Biology & Life Science,VU University Amsterdam,Japan,798
+Daisy Hatcher,124874,MULTI/INTERDISCIPLINARY STUDIES,2313,65,0.5,Pamela Gammon,Computers & Mathematics,University of Wisconsin-Madison,Canada,432
+Ernestine Crowe,432233,NUTRITION SCIENCES,3604,10,0.5,James Smith,Social Science,University of Tartu,Thailand,319
+Mary Gerow,169397,COURT REPORTING,3699,60,1.0,Robert Wright,Engineering,University of Minnesota,Germany,716
+Brittany Taylor,338321,OTHER FOREIGN LANGUAGES,3699,88,0.5,Silvia Vinyard,Business,University of Canberra,Brazil,89
+Jacob Truong,255135,COSMETOLOGY SERVICES AND CULINARY ARTS,2309,94,1.0,Eileen Williams,Engineering,George Washington University,Australia,586
+Mark Thompson,785211,INDUSTRIAL PRODUCTION TECHNOLOGIES,4801,32,1.0,Allen Fletcher,Business,Louisiana State University,Spain,213
+Shelly Tune,739587,ENGINEERING AND INDUSTRIAL MANAGEMENT,6099,51,0.5,Michael Anderson,Engineering,National University of Córdoba,Portugal,96
+Milagros Weston,461561,FINE ARTS,3607,90,0.5,Faustino Vicknair,Health,Jordan University of Science and Technology,France,760
+Charles Camacho,806856,BIOLOGICAL ENGINEERING,6000,60,0.5,Wanda Dominguez,Humanities & Liberal Arts,Lille 1 University – Science and Technology,Brazil,71
+Raymond Binkley,615143,LIBERAL ARTS,2501,15,1.0,Virginia Ross,Physical Sciences,University of Cyprus,United States of America,274
+Joe Peters,825977,PHILOSOPHY AND RELIGIOUS STUDIES,1100,93,0.5,Leon Wilfong,Physical Sciences,National Institute of Applied Sciences of Lyon (INSA Lyon),Germany,253
+Blake Scanlan,533732,ENVIRONMENTAL ENGINEERING,2306,90,1.0,Duane Chang,Biology & Life Science,Dublin City University,Australia,488
+Virginia Harris,951532,DRAMA AND THEATER ARTS,1901,0,0.5,Charles Blankenship,Humanities & Liberal Arts,Stony Brook University,United Kingdom,84
+Michelle Thompson,920251,PUBLIC POLICY,2409,70,1.0,Doris Potts,Biology & Life Science,University of Pardubice,China,714
+Mildred Brooks,397516,SOCIAL PSYCHOLOGY,5102,50,1.0,Dianne Place,Computers & Mathematics,United Arab Emirates University,United States of America,265
+Stephanie Martinez,448510,MULTI/INTERDISCIPLINARY STUDIES,3401,25,1.0,John Tao,Agriculture & Natural Resources,Toulouse 1 Capitole University,Japan,40
+Sarah Grice,491548,STUDIO ARTS,6099,37,1.0,John Nicholson,Computers & Mathematics,University of Paris North – Paris 13,Spain,167
+Luis Osborne,667944,JOURNALISM,2410,98,1.0,Clara Spence,Communications & Journalism,Tokyo Medical and Dental University (TMDU),Japan,50
+William Reed,825621,NATURAL RESOURCES MANAGEMENT,1904,47,0.5,Jessica Lawson,Psychology & Social Work,Kyoto University,Germany,277
+Donald Walker,995066,CLINICAL PSYCHOLOGY,4000,97,0.5,Virginia Daniels,Humanities & Liberal Arts,University of Iceland,Netherlands,603
+James Shearer,724720,BIOLOGY,5006,72,0.5,Lillian Cleveland,Engineering,Savitribai Phule Pune University,Sweden,208
+William Sheehan,697748,HEALTH AND MEDICAL PREPARATORY PROGRAMS,4006,42,0.5,James Little,Business,Washington State University,United States of America,752
+Elizabeth Smith,574307,HEALTH AND MEDICAL ADMINISTRATIVE SERVICES,6001,60,0.5,James Hoffman,Business,University of Dhaka,Iran,797
+Clifford Wiggins,928333,ACTUARIAL SCIENCE,3201,75,0.5,Kristin Votaw,Agriculture & Natural Resources,Johannes Gutenberg University of Mainz,Russian Federation,505
+Maggie Bellino,789598,MANAGEMENT INFORMATION SYSTEMS AND STATISTICS,5004,95,0.5,Shirley Kelly,Arts,Polytechnic University of Turin,United States of America,210
+Gertrude Townsend,900689,MISCELLANEOUS FINE ARTS,2407,77,0.5,John Weatherly,Engineering,Pontifical Catholic University of Paraná,Spain,510
+David Hoffman,744205,MISCELLANEOUS PSYCHOLOGY,1103,41,0.5,James Weymouth,Engineering,University of Medicine and Dentistry of New Jersey,Republic of Ireland,670
+Kelley Kawamura,219547,NUTRITION SCIENCES,1106,1,1.0,Michelle Branson,Arts,Emory University,Netherlands,670
+Dalton Norfleet,898288,COMMUNITY AND PUBLIC HEALTH,5404,87,1.0,Roland Swindler,Computers & Mathematics,King Saud University,Malaysia,678
+Walter Gooding,578668,POLITICAL SCIENCE AND GOVERNMENT,2001,12,0.5,Audrey Bandy,Humanities & Liberal Arts,Sejong University,Germany,173
+Rose McWilliams,359561,ANIMAL SCIENCES,5507,90,0.5,Catherine Lynch,Psychology & Social Work,UiT The Arctic University of Norway,United Kingdom,302
+Leon Wilfong,330420,HEALTH AND MEDICAL PREPARATORY PROGRAMS,5202,32,1.0,Annabelle Collazo,Health,University of New Mexico,Germany,392
+Mary Lucey,553101,SOIL SCIENCE,2100,31,1.0,Phyllis Briggs,Business,Liverpool John Moores University,United States of America,210
+Betsy Sims,224501,MILITARY TECHNOLOGIES,1106,23,0.5,Rickey Birkland,Social Science,Chinese University of Hong Kong,New Zealand,474
+Christopher Durant,482823,GENERAL BUSINESS,3401,31,0.5,Tara Porter,Business,Louisiana State University,Hungary,248
+Maureen King,736271,BUSINESS ECONOMICS,6099,0,0.5,Irene Wagner,Engineering,Athens University of Economics and Business,Finland,179
+Robert Wright,362325,INDUSTRIAL PRODUCTION TECHNOLOGIES,2410,51,0.5,Trisha Bramblett,Psychology & Social Work,Ben-Gurion University of the Negev,Netherlands,807
+Joseph Gray,852316,"NUCLEAR, INDUSTRIAL RADIOLOGY, AND BIOLOGICAL TECHNOLOGIES",6108,86,0.5,Justin Chamberland,Psychology & Social Work,Bauman Moscow State Technical University,Colombia,453
+Trenton Askew,570323,MULTI/INTERDISCIPLINARY STUDIES,5005,13,0.5,Wanda Harp,Interdisciplinary,University of Copenhagen,Sweden,45
+Patrick Spurlock,119392,ENGLISH LANGUAGE AND LITERATURE,5506,70,1.0,Marisa Caldwell,Biology & Life Science,Northwestern Polytechnical University,United States of America,808
+Victoria Pena,204453,CHEMICAL ENGINEERING,2102,86,0.5,Stephanie Atkinson,Engineering,Monash University,Japan,568
+James Jones,898630,PHYSIOLOGY,5402,92,1.0,Eileen Pierce,Health,University of Duisburg-Essen,United States of America,620
+Scarlett Lockhart,995171,INTERDISCIPLINARY SOCIAL SCIENCES,3801,36,0.5,Danny Pimentel,Education,University of Southern Denmark,Germany,781
+Tiffany Rowsey,172011,MISCELLANEOUS FINE ARTS,6201,27,0.5,Diane King,Industrial Arts & Consumer Services,Kyushu University,Spain,256
+Patrick Spurlock,537269,ADVERTISING AND PUBLIC RELATIONS,1903,61,1.0,Anastacia Wooldridge,Arts,Adam Mickiewicz University,Brazil,574
+Cathy Dominquez,889441,NUCLEAR ENGINEERING,1105,43,1.0,Michael Davis,Social Science,Ohio State University,Denmark,591
+Mildred Bolster,153038,GENETICS,2314,84,1.0,Brian Davis,Psychology & Social Work,Istanbul University,Japan,793
+Paula Gregory,624834,CRIMINOLOGY,3608,53,0.5,Harry Cusick,Arts,Sheffield Hallam University,Taiwan,675
+Lynda Saiz,806625,SECONDARY TEACHER EDUCATION,3611,72,1.0,Janet Higgs,Humanities & Liberal Arts,San Diego State University,Republic of Ireland,429
+Ronald Hernandez,418961,FORESTRY,1106,12,0.5,Patsy Cook,Education,University of Wollongong,United States of America,310
+Virginia Daniels,593037,MISCELLANEOUS BUSINESS & MEDICAL ADMINISTRATION,2107,37,0.5,Modesta Peeples,Arts,University of Colorado Boulder,Bangladesh,683
+Delores Garcia,582849,COMMUNITY AND PUBLIC HEALTH,2312,41,1.0,Kimberly Hays,Law & Public Policy,University of Sussex,Japan,675
+Tina Mangrum,597248,"ELECTRICAL, MECHANICAL, AND PRECISION TECHNOLOGIES AND PRODUCTION",1105,13,1.0,Stephanie Ford,Biology & Life Science,Xidian University,United States of America,168
+Danny Lofton,647395,COMMUNICATIONS,3302,20,1.0,Carol Thomas,Engineering,Fu Jen Catholic University,United States of America,465
+Kenneth Burke,379992,MISCELLANEOUS FINE ARTS,2307,11,0.5,Eric Grimes,Biology & Life Science,University of Innsbruck,Germany,613
+Robert Little,637524,PHYSICAL AND HEALTH EDUCATION TEACHING,6003,53,0.5,Linda Steger,Law & Public Policy,King Abdulaziz University,Italy,440
+Patricia Shannon,630449,GENERAL EDUCATION,6205,100,0.5,Steven Whitaker,Engineering,James Cook University,New Zealand,546
+Thomas Siegel,827083,STUDIO ARTS,3602,86,0.5,Eva Proffitt,Psychology & Social Work,Sheffield Hallam University,Netherlands,191
+Rose Jose,668728,MATERIALS ENGINEERING AND MATERIALS SCIENCE,2413,15,0.5,Anne Corbett,Health,Copenhagen Business School,Japan,102
+Thomas Adolph,956854,SECONDARY TEACHER EDUCATION,3701,46,0.5,Stephanie Wright,Engineering,Washington University in St Louis,United States of America,439
+Kelly Patten,705821,HUMAN RESOURCES AND PERSONNEL MANAGEMENT,2500,96,0.5,Jason Smith,Humanities & Liberal Arts,Charles Darwin University,Australia,691
+David Atkinson,938507,COMPUTER ADMINISTRATION MANAGEMENT AND SECURITY,2106,68,0.5,Chastity Wilson,Business,University of Newcastle,United States of America,58
+Vilma Cabot,818584,MICROBIOLOGY,2102,67,1.0,Terry Torres,Physical Sciences,Chalmers University of Technology,China,279
+Jo Malinowski,474286,CONSTRUCTION SERVICES,5507,64,1.0,Pedro Boyer,Biology & Life Science,University of Surrey,United States of America,73
+Donald Carlson,117492,MATERIALS ENGINEERING AND MATERIALS SCIENCE,3607,1,0.5,Sonia Burcham,Biology & Life Science,University of Cyprus,United States of America,259
+Shannon Guin,104633,MISCELLANEOUS HEALTH MEDICAL PROFESSIONS,3604,69,1.0,Christopher King,Physical Sciences,China University of Geosciences (Wuhan),Taiwan,19
+Ralph Williams,782442,STATISTICS AND DECISION SCIENCE,4101,78,0.5,Anne McKeown,Humanities & Liberal Arts,National Chengchi University,Germany,169
+Raymond Binkley,515829,BIOLOGY,5202,100,1.0,Angela Stone,Education,University of Ottawa,Brazil,595
+Michelle Jackson,911592,PHYSICS,6207,52,0.5,Carolyn Creger,Physical Sciences,University of Jyväskylä,Japan,62
+Kimberly Ruano,662811,OTHER FOREIGN LANGUAGES,6102,15,0.5,Anderson Richardson,Humanities & Liberal Arts,Creighton University,Canada,234
+Robert Stewart,323015,GENERAL EDUCATION,3700,32,1.0,Chad Shepard,Industrial Arts & Consumer Services,Technical University of Madrid,United States of America,221
+Richard Eng,153091,MISCELLANEOUS AGRICULTURE,2106,28,0.5,Don Bell,Education,Aix-Marseille University,Japan,469
+Maria Delgado,115637,HUMAN RESOURCES AND PERSONNEL MANAGEMENT,2399,36,0.5,Pedro Boyer,Health,China Agricultural University,India,466
+Shannon Kelly,964388,GEOLOGICAL AND GEOPHYSICAL ENGINEERING,2412,39,1.0,Richard Moe,Education,Federal University of Viçosa,China,186
+Patrica Jones,110356,FAMILY AND CONSUMER SCIENCES,5203,54,1.0,Joseph Hammett,Industrial Arts & Consumer Services,Claude Bernard University Lyon 1,United States of America,673
+Maria Ball,497027,INTERNATIONAL BUSINESS,6108,27,1.0,Rene Page,Physical Sciences,University of Kaiserslautern,United Kingdom,115
+Lawrence Aldridge,505196,HUMAN RESOURCES AND PERSONNEL MANAGEMENT,6104,33,0.5,Robert Halley,Humanities & Liberal Arts,University of Florence,United States of America,290
+Valerie Yancy,887802,PRE-LAW AND LEGAL STUDIES,2414,98,0.5,Ben Janousek,Agriculture & Natural Resources,University of Ibadan,Finland,213
+Anthony Kalb,246581,HEALTH AND MEDICAL ADMINISTRATIVE SERVICES,2304,12,0.5,Freddy Hartman,Engineering,City University of Hong Kong,Taiwan,149
+Mary Gerow,733627,PUBLIC ADMINISTRATION,2409,63,1.0,Kyle Jones,Health,University of Exeter,Austria,42
+Elizabeth Baker,353633,MECHANICAL ENGINEERING RELATED TECHNOLOGIES,6210,81,0.5,Charlie Tarin,Health,University of Macau,Germany,393
+Ken Goldstein,672738,MATERIALS ENGINEERING AND MATERIALS SCIENCE,3607,7,1.0,Sam Overton,Social Science,"Birla Institute of Technology and Science, Pilani",United States of America,381
+Albert Cash,781556,NUCLEAR ENGINEERING,3600,19,0.5,Tracy Yates,Communications & Journalism,Massachusetts Institute of Technology,Chile,681
+Adela Kowalski,969587,ELECTRICAL ENGINEERING TECHNOLOGY,2301,68,1.0,Joe Lopez,Physical Sciences,University of Fribourg,Taiwan,493
+Stephanie Wright,963270,ECONOMICS,2408,9,1.0,Bertha Henderson,Social Science,Czech Technical University in Prague,Finland,114
+Veronica Day,855280,ARCHITECTURE,5507,41,0.5,Lance Fossum,Education,Carlos III University of Madrid,New Zealand,798
+Douglas Rodriguez,849767,SCHOOL STUDENT COUNSELING,5002,65,0.5,Geneva Lindsey,Biology & Life Science,University of Fribourg,Mexico,664
+Ronald Hendon,655177,PHARMACY PHARMACEUTICAL SCIENCES AND ADMINISTRATION,5506,79,1.0,William Sheehan,Agriculture & Natural Resources,"China Medical University, Taiwan",Japan,257
+John Westerfield,244481,ECOLOGY,2402,77,0.5,Betsy Sims,Arts,University of Leicester,Australia,123
+Michael Weller,790149,MISCELLANEOUS ENGINEERING TECHNOLOGIES,3607,12,1.0,Ronald Jones,Engineering,Oxford Brookes University,United States of America,715
+Kathryn Ellis,523187,FRENCH GERMAN LATIN AND OTHER COMMON FOREIGN LANGUAGE STUDIES,3700,16,1.0,Joe Peters,Social Science,State University of New York Albany,Hong Kong,601
+John Majors,972487,MILITARY TECHNOLOGIES,5206,5,0.5,Danny Lofton,Engineering,Pontifical Catholic University of Rio Grande do Sul (PUCRS),Spain,154
+Lillian Cleveland,399601,PETROLEUM ENGINEERING,5501,29,0.5,Peggy Mejia,Biology & Life Science,Keio University,United States of America,330
+Kay Scott,778129,MASS MEDIA,6104,74,1.0,Barbara Scott,Engineering,Karlsruhe Institute of Technology,Finland,742
+Rosie Castillo,685679,ELECTRICAL ENGINEERING,2402,19,1.0,Brittany Plumley,Agriculture & Natural Resources,Federal University of Lavras,Japan,587
+Dana Cooper,145822,INDUSTRIAL PRODUCTION TECHNOLOGIES,1101,87,1.0,Luis Barber,Engineering,University of Kaiserslautern,Switzerland,86
+Eileen Williams,970607,PHARMACOLOGY,4005,67,0.5,James Carswell,Health,University of Waterloo,Taiwan,468
+Refugio Scheele,982528,ECONOMICS,3608,16,1.0,Maria Rosenzweig,Social Science,Gwangju Institute of Science and Technology,United States of America,632
+Gregory Byrd,645225,PUBLIC ADMINISTRATION,3600,69,1.0,Audrey Bandy,Physical Sciences,University of Genoa,Canada,292
+Toni McGriff,699792,ENGINEERING AND INDUSTRIAL MANAGEMENT,2403,46,1.0,Lois Buss,Business,Rush University,Brazil,664
+Grace Rivera,501749,NAVAL ARCHITECTURE AND MARINE ENGINEERING,5500,84,0.5,Emmett Washburn,Engineering,Auckland University of Technology,United States of America,56
+Mildred Bolster,952967,COGNITIVE SCIENCE AND BIOPSYCHOLOGY,2405,62,1.0,Jennifer Peters,Biology & Life Science,University of Coimbra,United States of America,559
+Heather Kendall,469457,PUBLIC ADMINISTRATION,3702,3,0.5,Luis Barber,Engineering,Colorado State University,Finland,282
+Sarah Newsom,453260,"ELECTRICAL, MECHANICAL, AND PRECISION TECHNOLOGIES AND PRODUCTION",3606,60,1.0,Joseph Ford,Education,Korea Advanced Institute of Science and Technology (KAIST),United States of America,764
+Dean Allen,736838,MISCELLANEOUS ENGINEERING TECHNOLOGIES,2406,13,1.0,James Little,Humanities & Liberal Arts,Karolinska Institute,Brazil,66
+Howard Martin,334292,COMMERCIAL ART AND GRAPHIC DESIGN,5401,9,0.5,See Ragsdale,Engineering,Medical University of South Carolina,Australia,78
+Elaine Crystal,792645,BIOLOGY,5401,88,0.5,Melida Williams,Industrial Arts & Consumer Services,University of Trento,Spain,501
+Lorraine Granger,886479,PHILOSOPHY AND RELIGIOUS STUDIES,1401,7,0.5,Robert Workman,Physical Sciences,Bilkent University,United States of America,518
+David Hughes,863045,LINGUISTICS AND COMPARATIVE LANGUAGE AND LITERATURE,1904,76,0.5,Margie Remington,Business,University of Dhaka,United Kingdom,760
+Helen Hood,581441,MULTI-DISCIPLINARY OR GENERAL SCIENCE,3401,42,1.0,Chad Pardee,Humanities & Liberal Arts,Sheffield Hallam University,Austria,254
+Melvin Berkowitz,602870,SCHOOL STUDENT COUNSELING,2309,36,0.5,Estelle Cowart,Biology & Life Science,Rush University,United States of America,660
+Danielle Gottlieb,243988,AGRICULTURAL ECONOMICS,4005,27,1.0,William Reed,Education,University of Geneva,South Korea,414
+Julian Kay,209664,INTERCULTURAL AND INTERNATIONAL STUDIES,1105,24,0.5,Donald Carlson,Health,Polytechnic University of Catalonia,United Kingdom,393
+Gaston Florian,925610,MATHEMATICS AND COMPUTER SCIENCE,6206,88,1.0,John Tao,Engineering,Cairo University,China,341
+Richard Eng,426304,PHILOSOPHY AND RELIGIOUS STUDIES,2107,31,0.5,Edward Tanner,Engineering,Pontifical Catholic University of Rio Grande do Sul (PUCRS),United States of America,162
+Clara Spence,689119,EDUCATIONAL PSYCHOLOGY,3801,90,1.0,Audrey Bandy,Humanities & Liberal Arts,"University of California, Riverside",United States of America,549
+Modesta Peeples,966136,PHYSIOLOGY,6204,33,1.0,Brandon Hanes,Business,University of Illinois at Urbana-Champaign,Spain,467
+Annabelle Collazo,131101,"NUCLEAR, INDUSTRIAL RADIOLOGY, AND BIOLOGICAL TECHNOLOGIES",1100,3,0.5,Judy Nichols,Law & Public Policy,Indian Institute of Technology Guwahati,United States of America,368
+Betsy Sims,884610,SPECIAL NEEDS EDUCATION,5504,40,0.5,Justin Chamberland,Health,Zhejiang University,Turkey,541
+Anthony McCoy,559285,COMPUTER PROGRAMMING AND DATA PROCESSING,3202,42,0.5,Kelley Kawamura,Biology & Life Science,Dalhousie University,United States of America,84
+Trenton Askew,452787,ECOLOGY,2418,9,1.0,Clayton Hall,Computers & Mathematics,University at Buffalo,United Kingdom,322
+Linda Walters,541481,MINING AND MINERAL ENGINEERING,6110,9,0.5,Heather Kendall,Social Science,University of Missouri,France,525
+Valerie Yancy,614982,COMPUTER ENGINEERING,3607,30,1.0,Paula Gregory,Business,Griffith University,United Kingdom,196
+Dawn Guertin,182759,HUMAN RESOURCES AND PERSONNEL MANAGEMENT,5404,7,0.5,Lois Miller,Agriculture & Natural Resources,University of Arkansas,Russian Federation,375
+Joseph Mercer,557259,COMPUTER ENGINEERING,1303,51,0.5,Mary Eastman,Health,University of Texas at Dallas,Japan,798
+Ricky Martin,826838,APPLIED MATHEMATICS,2309,87,1.0,Teri Bush,Humanities & Liberal Arts,Harbin Institute of Technology,Netherlands,706
+Monica Carroll,739917,ENGINEERING AND INDUSTRIAL MANAGEMENT,5504,55,1.0,Dorothy Fernandez,Biology & Life Science,University of Strasbourg,Iceland,573
+Mary Morgan,103211,APPLIED MATHEMATICS,4000,0,0.5,Jacki Sprenger,Agriculture & Natural Resources,University of Tokyo,Belgium,77
+Vera Merrill,723708,MATHEMATICS,5505,1,0.5,Felix McMullen,Education,New Mexico State University,Canada,233
+Karen Peter,848662,PETROLEUM ENGINEERING,5403,72,0.5,Barbara Williams,Education,University of Turin,United Kingdom,813
+Michael Wu,798595,PUBLIC ADMINISTRATION,1104,77,1.0,Timothy Piper,Biology & Life Science,Prince of Songkla University,South Korea,78
+Eleanor Deleon,252859,AEROSPACE ENGINEERING,2402,94,0.5,Maya Bowers,Engineering,University of Burgundy,Italy,178
+James Delong,925876,PHILOSOPHY AND RELIGIOUS STUDIES,2305,20,0.5,Matthew Denzer,Biology & Life Science,Kansas State University,United States of America,715
+Ralph Taylor,299375,FILM VIDEO AND PHOTOGRAPHIC ARTS,6103,0,0.5,Shelley Lubbers,Biology & Life Science,University of Waterloo,Japan,115
+Daniel Morgan,630655,PHARMACY PHARMACEUTICAL SCIENCES AND ADMINISTRATION,3606,27,1.0,Jessica Lawson,Law & Public Policy,University of Göttingen,United Kingdom,682
+Clifford Field,750873,FORESTRY,5505,34,1.0,Eva Reid,Health,University of Szeged,United States of America,431
+Nathan Suzuki,850456,PHARMACY PHARMACEUTICAL SCIENCES AND ADMINISTRATION,3700,85,1.0,Leigh Wallace,Humanities & Liberal Arts,Pompeu Fabra University,Australia,237
+Altagracia Lester,456164,PHARMACY PHARMACEUTICAL SCIENCES AND ADMINISTRATION,5501,98,1.0,Ruby Thomas,Agriculture & Natural Resources,University of Nebraska Medical Center,United States of America,765
+Katina Joslyn,436684,MATHEMATICS AND COMPUTER SCIENCE,5503,20,1.0,Brandon Hanes,Education,University of the West of England,Israel,392
+Cindy Roger,745796,MANAGEMENT INFORMATION SYSTEMS AND STATISTICS,2308,37,1.0,Armando Lanier,Business,University of Montreal,Spain,561
+Catherine Powell,705561,MUSIC,2415,32,0.5,Rebekah Watts,Engineering,Slovak University of Technology in Bratislava,Hungary,345
+Eugene Baird,986408,FINE ARTS,5299,89,0.5,Anna Darby,Social Science,University of Wisconsin-Milwaukee,Switzerland,266
+Luis Irwin,218840,MUSIC,6000,36,0.5,Thomas Greene,Psychology & Social Work,University of Ottawa,Japan,421
+Terrence Wiley,177729,CHEMISTRY,6206,69,0.5,Philip Woodall,Biology & Life Science,Inha University,Australia,213
+Debbie Lee,470163,COUNSELING PSYCHOLOGY,2419,83,0.5,Eddie Hicks,Business,University of Central Lancashire,Japan,145
+Tyrone Delatorre,349212,SOCIAL SCIENCE OR HISTORY TEACHER EDUCATION,2416,55,1.0,William Norris,Agriculture & Natural Resources,Örebro University,United States of America,84
+Valerie Yancy,239322,SOCIOLOGY,2502,89,0.5,Roger Dixon,Engineering,Koç University,Germany,760
+Kathy Wahl,619034,AGRICULTURAL ECONOMICS,2305,42,0.5,Teri Peete,Engineering,Pontifical Catholic University of Chile,Germany,790
+Marisa Caldwell,122383,INTERNATIONAL RELATIONS,1100,79,0.5,Josie Benner,Health,Athens University of Economics and Business,France,342
+Maggie Bellino,139885,BIOMEDICAL ENGINEERING,6100,58,0.5,Dessie Felton,Health,National Institute of Applied Sciences of Lyon (INSA Lyon),France,397
+Leon Dana,683730,CRIMINAL JUSTICE AND FIRE PROTECTION,6402,58,0.5,Robert Little,Engineering,Drexel University,Switzerland,619
+Freddy Hartman,137856,HISTORY,6203,87,1.0,Monica Carroll,Agriculture & Natural Resources,Yeungnam University,United Kingdom,59
+Ronald Hendon,246670,FOOD SCIENCE,2309,4,0.5,Adrian Washington,Biology & Life Science,University of Trieste,Czech Republic,185
+David Chess,833034,LANGUAGE AND DRAMA EDUCATION,2413,40,0.5,Perla Gerst,Health,São Paulo State University (UNESP),United Kingdom,271
+Lester Felty,574674,ENGLISH LANGUAGE AND LITERATURE,3402,70,1.0,Martha Claassen,Engineering,Hong Kong University of Science and Technology,Luxembourg,202
+Charlotte Jones,688757,MISCELLANEOUS HEALTH MEDICAL PROFESSIONS,2500,92,0.5,Margaret Miller,Engineering,Saitama University,United Arab Emirates,177
+Katina Joslyn,712015,ADVERTISING AND PUBLIC RELATIONS,5299,7,0.5,Heather Baker,Education,University of Hertfordshire,Germany,695
+Suzette Childs,800596,"ELECTRICAL, MECHANICAL, AND PRECISION TECHNOLOGIES AND PRODUCTION",2901,32,0.5,Brian Davis,Psychology & Social Work,"National University of Ireland, Maynooth",Russian Federation,457
+Teresa Huntley,897961,GENERAL SOCIAL SCIENCES,6000,90,1.0,Daniel Metzler,Education,Uppsala University,New Zealand,670
+William Denson,947141,MISCELLANEOUS PSYCHOLOGY,5504,83,1.0,Wilbert Jennings,Engineering,National Autonomous University of Mexico,Luxembourg,116
+Jeannette Parks,238117,MECHANICAL ENGINEERING RELATED TECHNOLOGIES,1104,57,1.0,Lynda Reynolds,Humanities & Liberal Arts,University of Minho,United Kingdom,677
+John Griffin,818044,INDUSTRIAL PRODUCTION TECHNOLOGIES,1101,64,0.5,Lois Miller,Arts,University of North Carolina at Chapel Hill,Australia,370
+Heather Allen,575203,MISCELLANEOUS BUSINESS & MEDICAL ADMINISTRATION,5202,57,1.0,Gene Spring,Physical Sciences,University of Padua,South Korea,9
+James Dillon,770722,PHYSIOLOGY,5201,7,0.5,Cinthia McGurk,Industrial Arts & Consumer Services,City University London,United States of America,532
+Barbara Sanford,506997,MISCELLANEOUS ENGINEERING,6110,48,0.5,Marisa Caldwell,Social Science,Florida State University,United States of America,538
+Alyse Wong,193552,MISCELLANEOUS ENGINEERING,2409,59,0.5,Retha Smith,Social Science,Louisiana State University,Egypt,562
+Tracy Yates,138173,GENERAL BUSINESS,5502,58,0.5,Rose Sullivan,Engineering,Eindhoven University of Technology,Australia,255
+Rhiannon Pelletier,964455,ENVIRONMENTAL SCIENCE,6402,85,0.5,Robin Bradley,Business,University of Science and Technology of China,France,507
+Dorothy Spaulding,296883,ENVIRONMENTAL ENGINEERING,3701,76,1.0,Vickie Lafferty,Education,Temple University,Australia,346
+Don Aguirre,573566,PHYSICAL SCIENCES,2407,100,1.0,George Torres,Humanities & Liberal Arts,Yokohama City University,Netherlands,189
+Ronnie Hicks,720783,ENGINEERING AND INDUSTRIAL MANAGEMENT,2406,9,0.5,Toni McGriff,Biology & Life Science,University of Manitoba,Japan,326
+Wilbert Jennings,861857,ATMOSPHERIC SCIENCES AND METEOROLOGY,1401,95,0.5,Edith Campbell,Arts,University of Newcastle,Sweden,110
+Ashley Garcia,979254,NUCLEAR ENGINEERING,5299,38,0.5,Amanda Coon,Engineering,Middlesex University,Austria,242
+Gladys Blankenship,616123,ART HISTORY AND CRITICISM,6001,85,0.5,Sharon McMillin,Computers & Mathematics,La Trobe University,United Kingdom,278
+Debra Boatright,143269,FINE ARTS,6102,14,1.0,Kenneth Marmon,Engineering,University of Iowa,United States of America,746
+William Brown,261236,MUSIC,2414,50,0.5,Leon Dana,Business,University of Tokyo,Italy,664
+John Nicholson,852604,ATMOSPHERIC SCIENCES AND METEOROLOGY,6100,0,1.0,James Delong,Engineering,National University of Córdoba,Czech Republic,701
+Kathy Wahl,514120,BIOCHEMICAL SCIENCES,5504,87,1.0,William Brown,Engineering,Clemson University,Taiwan,369
+Lina Cotton,252380,MECHANICAL ENGINEERING RELATED TECHNOLOGIES,5006,74,1.0,Kenneth Greenlee,Social Science,University of Missouri,Belarus,346
+Peggy Mejia,657252,CHEMICAL ENGINEERING,2416,8,1.0,Zachary Anderson,Business,Showa University,Italy,51
+Ebony Weiss,230692,BOTANY,1904,79,0.5,David Atkinson,Communications & Journalism,University of A Coruña,Malaysia,345
+Sandra Wong,585731,EARLY CHILDHOOD EDUCATION,2416,1,0.5,Nancy Cunningham,Humanities & Liberal Arts,University of Stuttgart,United States of America,285
+Tara Porter,944219,MISCELLANEOUS FINE ARTS,6108,86,1.0,Jack Wilson,Agriculture & Natural Resources,Florida State University,United Kingdom,626
+Dessie Felton,361934,MECHANICAL ENGINEERING,3700,82,1.0,Bernard Cotton,Education,University of Pisa,Japan,318
+Rodney Plumb,713244,COMPUTER ENGINEERING,2313,99,0.5,Robert Wright,Education,École Normale Supérieure de Lyon,United States of America,182
+Wilbert Jennings,809897,COMPUTER SCIENCE,5001,62,1.0,Dixie Klein,Health,Charité - Universitätsmedizin Berlin,India,10
+Jason Owens,626508,TEACHER EDUCATION: MULTIPLE LEVELS,3607,24,0.5,Deborah Thomson,Engineering,Indian Institute of Technology Kanpur,Japan,374
+Charmaine Fisher,149344,NUCLEAR ENGINEERING,3202,47,1.0,Shana Farrell,Health,University of Nebraska-Lincoln,Australia,785
+Ken Goldstein,305429,ENVIRONMENTAL ENGINEERING,1106,55,1.0,William Brown,Industrial Arts & Consumer Services,Kobe University,United States of America,504
+William Register,819585,ANIMAL SCIENCES,2414,55,0.5,Donna Lahti,Psychology & Social Work,Technical University of Berlin,United States of America,112
+Joan Morton,422804,ATMOSPHERIC SCIENCES AND METEOROLOGY,6211,39,1.0,Manuel Cuthbertson,Biology & Life Science,University of Cincinnati,Republic of Ireland,264
+Renee Delvecchio,888150,GEOLOGICAL AND GEOPHYSICAL ENGINEERING,2403,29,1.0,Glen Ali,Humanities & Liberal Arts,National Taiwan University,Turkey,153
+Henry Steward,355810,CONSTRUCTION SERVICES,6001,69,0.5,John Bryant,Education,Chulalongkorn University,China,457
+Jeannette Parks,693480,PHYSICS,5299,22,0.5,Mary Carroll,Humanities & Liberal Arts,Autonomous University of Madrid,Spain,322
+Diane Ayers,687449,NAVAL ARCHITECTURE AND MARINE ENGINEERING,4101,87,1.0,Frances Berrios,Computers & Mathematics,VŠB - Technical University of Ostrava,United States of America,47
+Jeffery Diaz,123655,MASS MEDIA,2400,52,1.0,Bernadine Hayes,Law & Public Policy,Huazhong University of Science and Technology,Finland,263
+Ada Burger,884569,SECONDARY TEACHER EDUCATION,2413,63,0.5,Ronald Jones,Health,Memorial University of Newfoundland,Serbia,170
+Sammy Stewart,835868,AREA ETHNIC AND CIVILIZATION STUDIES,2409,92,0.5,Robert Workman,Biology & Life Science,University of Notre Dame,China,189
+Ken Parker,354374,MISCELLANEOUS ENGINEERING,2105,73,1.0,Manuel Cuthbertson,Education,University of Amsterdam,Italy,85
+Rose Jose,273829,HOSPITALITY MANAGEMENT,2300,61,0.5,Mina Rush,Biology & Life Science,Xidian University,United States of America,569
+Matthew Denzer,199044,GENETICS,5601,81,1.0,Sandra Jones,Biology & Life Science,Tokyo University of Agriculture and Technology,France,122
+Edward Tanner,922660,MANAGEMENT INFORMATION SYSTEMS AND STATISTICS,6211,87,1.0,Carol Ellison,Humanities & Liberal Arts,University of Bremen,Sweden,565
+Dorothy Dean,738365,TREATMENT THERAPY PROFESSIONS,5401,51,1.0,Tony Ragsdale,Physical Sciences,University of St Gallen,Spain,805
+Grant Perry,793348,PSYCHOLOGY,6108,13,0.5,Evelyn Butler,Engineering,Liverpool John Moores University,Japan,556
+Lucas Palmer,286088,MISCELLANEOUS BIOLOGY,2106,5,1.0,Jacob Truong,Engineering,Technical University of Berlin,United States of America,786
+Barry Boggs,651519,ECONOMICS,3201,8,0.5,Shannon Guin,Business,University of Turin,Italy,81
+Michele Shead,724758,COMMUNICATIONS,6110,94,0.5,Barbara Favors,Psychology & Social Work,Tokyo University of Agriculture and Technology,Switzerland,64
+Monica Carroll,501752,INTERCULTURAL AND INTERNATIONAL STUDIES,2307,92,1.0,Felix McMullen,Education,University of Chile,Hungary,154
+Miguel Tyler,723108,ANTHROPOLOGY AND ARCHEOLOGY,5701,96,1.0,Dean Allen,Social Science,Wake Forest University,France,525
+Derek Rice,388559,PETROLEUM ENGINEERING,5005,9,1.0,Lauren Burriss,Physical Sciences,Georgia State University,United States of America,309
+Gary Corle,245946,COMPUTER ADMINISTRATION MANAGEMENT AND SECURITY,2401,4,0.5,Heather Baker,Education,Erasmus University Rotterdam,United States of America,680
+Lorene Calkins,869071,SCIENCE AND COMPUTER TEACHER EDUCATION,5200,4,0.5,Jonathan Haffner,Social Science,Kaohsiung Medical University,United Kingdom,790
+Gary Goldstein,922459,METALLURGICAL ENGINEERING,5007,55,0.5,Martha Claassen,Engineering,Hiroshima University,Russian Federation,662
+Lorraine Granger,964737,INDUSTRIAL AND MANUFACTURING ENGINEERING,6209,53,0.5,John Tao,Humanities & Liberal Arts,National Tsing Hua University,United Kingdom,814
+Zachary Melendez,460041,HUMAN SERVICES AND COMMUNITY ORGANIZATION,1106,98,0.5,Ryan Haffey,Social Science,Oregon State University,Israel,164
+Wanda Harp,364196,FOOD SCIENCE,4002,7,1.0,June Hartley,Humanities & Liberal Arts,Ohio State University,Brazil,11
+Wanda Harp,214124,COMMERCIAL ART AND GRAPHIC DESIGN,3801,77,1.0,Martin Cooper,Computers & Mathematics,"Asia University, Taiwan",Brazil,75
+Susan Welsh,773845,PHARMACOLOGY,6200,74,0.5,David Hammonds,Social Science,University of York,United States of America,428
+Jennifer Collins,801209,PUBLIC ADMINISTRATION,6110,61,1.0,Kristin Robinson,Industrial Arts & Consumer Services,Korea Advanced Institute of Science and Technology (KAIST),United States of America,378
+Blake Scanlan,317849,NUCLEAR ENGINEERING,6205,68,0.5,Vaughn Jackson,Education,University of Dundee,Brazil,553
+Alan Perez,590336,BIOMEDICAL ENGINEERING,2418,29,1.0,Miguel Tyler,Industrial Arts & Consumer Services,North Carolina State University,Germany,16
+Diane King,141569,INDUSTRIAL AND ORGANIZATIONAL PSYCHOLOGY,2416,35,0.5,Clayton Hall,Engineering,Chulalongkorn University,United Kingdom,324
+Jessica Lawson,237466,BIOLOGY,2901,64,1.0,Audrey Bandy,Engineering,University of Washington,Germany,478
+Ruth Hillman,304630,ATMOSPHERIC SCIENCES AND METEOROLOGY,2504,5,0.5,Michelle Branson,Social Science,University of Kaiserslautern,United States of America,791
+Marilyn Taylor,937399,BUSINESS MANAGEMENT AND ADMINISTRATION,2309,51,1.0,Donald Kay,Business,Colorado School of Mines,Malaysia,260
+Deborah Thomson,289876,ECONOMICS,5601,90,1.0,Velma Williams,Humanities & Liberal Arts,University of Würzburg,United States of America,606
+Royal Scott,512597,INDUSTRIAL PRODUCTION TECHNOLOGIES,6210,74,0.5,Patricia Callender,Arts,Tel Aviv University,United Kingdom,748
+Robert Wright,774501,EDUCATIONAL ADMINISTRATION AND SUPERVISION,1100,62,1.0,Lee Scanlan,Communications & Journalism,National University of Science and Technology (MISiS),Poland,209
+Betty Patrick,120875,CRIMINAL JUSTICE AND FIRE PROTECTION,5507,66,1.0,Karen Peter,Communications & Journalism,Sheffield Hallam University,United Kingdom,345
+Marvin Henderson,300209,INDUSTRIAL AND ORGANIZATIONAL PSYCHOLOGY,2409,48,1.0,Modesta Peeples,Computers & Mathematics,University of Padua,United States of America,455
+Adam Kelley,671756,NEUROSCIENCE,3602,84,0.5,Paula Gregory,Biology & Life Science,University of Warwick,New Zealand,99
+William Norris,289494,HUMAN RESOURCES AND PERSONNEL MANAGEMENT,1103,23,0.5,Marion Wiggin,Humanities & Liberal Arts,Tohoku University,South Korea,671
+Angela Freeman,140927,MISCELLANEOUS PSYCHOLOGY,6000,1,1.0,Era Rivera,Engineering,Rio de Janeiro State University (UERJ),United States of America,688
+Ross Flowers,675313,HUMAN RESOURCES AND PERSONNEL MANAGEMENT,3604,85,0.5,Kevin Page,Engineering,Korea University,Luxembourg,785
+Kathi Senters,573716,ART AND MUSIC EDUCATION,6403,70,0.5,Latonya Doll,Business,Yonsei University,India,734
+Melanie Williams,421927,MATHEMATICS,5004,6,0.5,Don Aguirre,Psychology & Social Work,Athens University of Economics and Business,United Kingdom,381
+Anastacia Wooldridge,233740,TREATMENT THERAPY PROFESSIONS,6203,97,0.5,Lois Jones,Humanities & Liberal Arts,Newcastle University,South Korea,692
+Charles Burnett,287634,CHEMICAL ENGINEERING,1100,46,0.5,Elizabeth Washington,Psychology & Social Work,University of Mannheim,United States of America,518
+Mike Burton,711188,OPERATIONS LOGISTICS AND E-COMMERCE,2300,48,1.0,Kevin Richardson,Engineering,University of Vermont,Mexico,776
+Brad Butler,781806,HUMAN RESOURCES AND PERSONNEL MANAGEMENT,2310,54,0.5,Kenneth Greenlee,Business,Ural Federal University,United States of America,132
+Penney Crayton,882814,NATURAL RESOURCES MANAGEMENT,1303,8,0.5,Chad Shepard,Interdisciplinary,Northwestern University,United States of America,98
+Steven Orbison,899468,BIOCHEMICAL SCIENCES,5102,42,0.5,William Clark,Computers & Mathematics,Shahid Beheshti University,Oman,89
+Brian Reyes,195119,PETROLEUM ENGINEERING,6100,20,1.0,Kenneth Marmon,Law & Public Policy,University of Milan,Netherlands,376
+Kyle Lee,769530,BOTANY,2602,49,1.0,Tiffany Rowsey,Education,Maastricht University,France,319
+Freddy Hartman,858575,COMPUTER ENGINEERING,6004,16,0.5,Marilyn Gill,Agriculture & Natural Resources,Nagoya University,Italy,700
+Danny Lofton,865502,MISCELLANEOUS HEALTH MEDICAL PROFESSIONS,5505,67,1.0,See Ragsdale,Business,University of Edinburgh,Iran,513
+Daniel Host,523691,COMMUNITY AND PUBLIC HEALTH,4006,69,1.0,Anna Ramirez,Computers & Mathematics,King Abdulaziz University,United States of America,620
+Danielle Gottlieb,732337,FILM VIDEO AND PHOTOGRAPHIC ARTS,3801,84,1.0,Daniel Metzler,Law & Public Policy,University of Regina,Italy,200
+Martha Claassen,335684,MEDICAL ASSISTING SERVICES,2400,79,1.0,Alan Leonard,Engineering,National University of Sciences and Technology,Iran,388
+Ronald McCullough,237227,CONSTRUCTION SERVICES,5201,7,0.5,Mary Lucey,Education,Federal University of Minas Gerais,Belgium,731
+Terry Torres,526184,MATHEMATICS,2602,53,0.5,Jesse Burt,Computers & Mathematics,University of Rochester,Israel,524
+James Matthews,290569,COMPUTER SCIENCE,3608,21,1.0,Claretta Brown,Humanities & Liberal Arts,The Open University,United States of America,237
+Clifford Ladouceur,638631,GEOLOGICAL AND GEOPHYSICAL ENGINEERING,6110,58,1.0,Marie Clark,Engineering,University of Coimbra,South Africa,300
+Diane Ayers,988380,TEACHER EDUCATION: MULTIPLE LEVELS,2500,16,1.0,David Simmons,Engineering,East China University of Science and Technology,United States of America,201
+June Hartley,274036,COMMUNICATION TECHNOLOGIES,2407,38,0.5,David Chess,Agriculture & Natural Resources,University of Luxembourg,South Korea,53
+Martha Cline,984484,INFORMATION SCIENCES,5007,66,0.5,Craig Cambell,Social Science,Moscow Institute of Physics and Technology,Czech Republic,339
+Howard Martin,113115,COMPUTER ENGINEERING,2503,75,0.5,Steven Ranieri,Computers & Mathematics,University of Cagliari,United States of America,278
+Jamika Smith,988858,TEACHER EDUCATION: MULTIPLE LEVELS,2500,39,0.5,Edith Pearson,Arts,Tokyo University of Science,France,607
+Edward Jackson,177448,HUMAN RESOURCES AND PERSONNEL MANAGEMENT,1904,43,0.5,Lynn French,Psychology & Social Work,"University of the Andes, Colombia",Lithuania,697
+Elizabeth Weldon,345764,PHYSICAL SCIENCES,6212,37,0.5,Jane Moon,Psychology & Social Work,National Taiwan Normal University,Netherlands,768
+Robert Stewart,587833,ELEMENTARY EDUCATION,2419,49,0.5,Michael Anderson,Engineering,Federal University of São Carlos,United States of America,500
+Lorene Martin,118362,ART HISTORY AND CRITICISM,2504,89,0.5,Ronald Cotten,Engineering,Lancaster University,United States of America,340
+Betty Wathen,846392,ACTUARIAL SCIENCE,2412,84,0.5,Joseph Hammett,Industrial Arts & Consumer Services,McMaster University,United Kingdom,374
+Daniel Walker,916116,MARKETING AND MARKETING RESEARCH,3601,36,0.5,Mark Wroblewski,Health,Ben-Gurion University of the Negev,Finland,249
+James Delong,133587,ART AND MUSIC EDUCATION,2409,24,1.0,Erin Valentine,Health,University of British Columbia,United Kingdom,153
+Bianca Vargas,822448,SOIL SCIENCE,2306,84,1.0,Michelle Sullivan,Business,Dublin City University,Chile,82
+Jimmy Farmer,627562,PHYSICS,2417,50,1.0,Jennifer Thomas,Computers & Mathematics,Ulm University,Italy,423
+Ralph Weatherly,126514,AREA ETHNIC AND CIVILIZATION STUDIES,2310,64,1.0,Kathy Wahl,Arts,Durham University,New Zealand,650
+John Bryant,534000,SECONDARY TEACHER EDUCATION,2603,71,1.0,James Mays,Psychology & Social Work,National Chengchi University,South Africa,253
+Marcella Long,188087,ENVIRONMENTAL ENGINEERING,4002,66,1.0,Mary Gerow,Social Science,University of Victoria,Sweden,426
+Elizabeth Baker,303254,BUSINESS MANAGEMENT AND ADMINISTRATION,5301,27,0.5,Ryan Worthington,Social Science,Indian Institute of Technology Guwahati,Canada,140
+Alan Leonard,169492,PHARMACOLOGY,3605,72,0.5,Jo Malinowski,Communications & Journalism,University of Canterbury,Brazil,755
+Freddie Richardson,142003,FAMILY AND CONSUMER SCIENCES,2411,55,1.0,Cynthia Schreiber,Agriculture & Natural Resources,China University of Geosciences (Wuhan),Germany,631
+Dwayne Barrera,495470,COMPUTER ENGINEERING,1902,40,1.0,Ronald Hendon,Interdisciplinary,Aligarh Muslim University,India,663
+Debra Shaw,869942,INTERNATIONAL BUSINESS,6211,63,0.5,Clyde Navarre,Health,Indian Institute of Science,Japan,37
+Elizabeth Baker,499641,AGRICULTURAL ECONOMICS,4901,33,0.5,James Little,Business,Pennsylvania State University,Japan,55
+Joe Peters,452752,SOCIAL WORK,4005,85,1.0,Don Bell,Social Science,University of Luxembourg,Uganda,84
+Gertrude Robinson,940253,HEALTH AND MEDICAL PREPARATORY PROGRAMS,2504,65,1.0,Olga Bradley,Education,University of Rovira i Virgili,United States of America,44
+Dorothy Dean,270464,SOCIAL WORK,6205,91,0.5,Bobby Simpson,Education,Korea University,United States of America,163
+Gary Corle,232868,COMMUNICATION DISORDERS SCIENCES AND SERVICES,2106,23,0.5,Robin Bradley,Engineering,Alexandru Ioan Cuza University,United Kingdom,66
+Roseanna Speakman,644105,NUTRITION SCIENCES,5403,7,0.5,Catherine Lynch,Communications & Journalism,South China University of Technology,Iran,43
+Kenneth Hughes,634652,NUCLEAR ENGINEERING,5506,86,0.5,William Brown,Biology & Life Science,Hebrew University of Jerusalem,South Africa,220
+Grant Perry,176549,DRAMA AND THEATER ARTS,3608,87,0.5,Megan Castillo,Engineering,University of Paris North – Paris 13,United Kingdom,223
+James Matthews,992378,ART HISTORY AND CRITICISM,5501,67,0.5,Annie Randall,Engineering,Hunan University,South Korea,646
+Richard Bender,201939,CLINICAL PSYCHOLOGY,5500,15,0.5,Karen Mitchell,Law & Public Policy,University of Toronto,United States of America,52
+Kenneth Williams,870177,INTERNATIONAL BUSINESS,4101,58,1.0,Brian Davis,Engineering,University College London,Sweden,331
+Ronald Collins,536441,HUMAN RESOURCES AND PERSONNEL MANAGEMENT,1106,32,0.5,Wayne Thomas,Business,University of Southern Denmark,South Korea,339
+Leonore Flynn,284033,GEOLOGICAL AND GEOPHYSICAL ENGINEERING,2411,34,0.5,Zula Hoffman,Health,Queen Mary University of London,Finland,641
+Maria Ball,249343,ENGINEERING AND INDUSTRIAL MANAGEMENT,2415,50,0.5,Beatrice Harris,Agriculture & Natural Resources,University of Southern Queensland,Taiwan,486
+Martin Rosenthal,973554,MULTI/INTERDISCIPLINARY STUDIES,2201,12,1.0,Kary Coachman,Engineering,Paris Dauphine University,Republic of Ireland,624
+Suzan Slusher,350822,MISCELLANEOUS ENGINEERING,1100,89,0.5,Edward Jackson,Arts,University of Florida,Japan,287
+Robert Wells,683893,PHARMACOLOGY,2412,59,1.0,Mary Bridges,Biology & Life Science,University of Science and Technology Beijing,United States of America,551
+Patricia Ware,679245,GENETICS,6209,34,0.5,Joe Fitzgerald,Biology & Life Science,Drexel University,Italy,650
+John Barber,561445,CRIMINOLOGY,2106,99,1.0,Calvin Parker,Psychology & Social Work,University of Cyprus,United States of America,775
+Charlotte Jones,393344,AEROSPACE ENGINEERING,6106,3,0.5,Daniel Lara,Social Science,Prince of Songkla University,Colombia,609
+Patricia Ware,778302,GENERAL ENGINEERING,5506,57,1.0,Shelly Tune,Health,Hong Kong University of Science and Technology,Taiwan,687
+David Simmons,325236,AREA ETHNIC AND CIVILIZATION STUDIES,3699,95,1.0,Thomas Adolph,Engineering,Ghent University,Finland,702
+Janette Hewitt,120326,ADVERTISING AND PUBLIC RELATIONS,6106,37,0.5,Timothy Moore,Humanities & Liberal Arts,University of Murcia,United Kingdom,209
+Roger Dixon,932822,INTERNATIONAL BUSINESS,5005,99,0.5,Don Aguirre,Social Science,University of Marrakech Cadi Ayyad,Australia,649
+Michelle Jackson,863898,COSMETOLOGY SERVICES AND CULINARY ARTS,6005,26,1.0,John Langford,Humanities & Liberal Arts,University of Leicester,Italy,472
+Robert Collins,414914,MATHEMATICS,2504,89,0.5,Suzette Childs,Engineering,University of Castilla-La Mancha,Uganda,188
+Nathan Suzuki,641415,COMPUTER ENGINEERING,1105,75,1.0,Maggie Bellino,Agriculture & Natural Resources,Oregon Health and Science University,Iran,411
+Trisha Bramblett,295149,GENERAL SOCIAL SCIENCES,3602,48,0.5,Adrian Washington,Physical Sciences,Tokyo University of Marine Science and Technology,Poland,401
+John Weatherly,140626,PUBLIC POLICY,1301,48,0.5,James Shearer,Business,American University of Beirut,Denmark,336
+Calvin Parker,595555,ELEMENTARY EDUCATION,1100,7,1.0,David Bryson,Industrial Arts & Consumer Services,George Mason University,Japan,761
+Alicia Thompson,334698,MARKETING AND MARKETING RESEARCH,5601,58,1.0,Howard Martin,Business,Sungkyunkwan University (SKKU),Italy,287
+John Weatherly,620212,HUMANITIES,1106,57,0.5,Joseph Hickey,Physical Sciences,China Agricultural University,Japan,488
+Freddie Richardson,344556,MISCELLANEOUS BUSINESS & MEDICAL ADMINISTRATION,6200,50,0.5,Gertrude Robinson,Health,Xi’an Jiaotong University,Serbia,542
+Matthew Denzer,270607,INTERDISCIPLINARY SOCIAL SCIENCES,2901,22,0.5,Ana Hough,Education,University of Modena and Reggio Emilia,China,557
+Paula Gregory,723926,MILITARY TECHNOLOGIES,2418,18,1.0,Joe Smith,Education,University of Chicago,Australia,425
+Heather Allen,185968,ARCHITECTURE,1301,58,1.0,Jeffrey Hicks,Biology & Life Science,George Washington University,Switzerland,85
+Janice Townsend,314936,SECONDARY TEACHER EDUCATION,2102,17,1.0,Lonnie Ramos,Health,National Sun Yat-Sen University,Israel,586
+William Rosen,514160,COMPUTER PROGRAMMING AND DATA PROCESSING,1301,20,1.0,Jacob Truong,Agriculture & Natural Resources,Sheffield Hallam University,Germany,344
+Jack Jenkins,171057,SOCIAL WORK,5401,23,0.5,Gary Goldstein,Psychology & Social Work,University of Erlangen-Nuremberg,United States of America,517
+Stephanie Ford,658568,BIOLOGICAL ENGINEERING,2314,34,1.0,Ryan Haffey,Business,University of Lincoln,Republic of Ireland,685
+Steven Robles,785156,JOURNALISM,6210,42,0.5,Carly Donaldson,Biology & Life Science,Lund University,South Africa,159
+James Mays,416051,NEUROSCIENCE,2201,47,1.0,Maria Delgado,Business,University of Salento,France,147
+Eileen Pierce,780192,AEROSPACE ENGINEERING,5301,10,1.0,Kenneth Hughes,Physical Sciences,University of Zaragoza,United Kingdom,762
+Teresa Huntley,901519,CHEMICAL ENGINEERING,2502,27,1.0,Vern Bise,Humanities & Liberal Arts,Hebrew University of Jerusalem,Australia,696
+Yvette Goheen,461223,DRAMA AND THEATER ARTS,2415,6,0.5,Debra Hays,Arts,Northumbria University,Republic of Ireland,323
+Mary Morgan,415626,COSMETOLOGY SERVICES AND CULINARY ARTS,2414,72,1.0,Nicole Jimenez,Psychology & Social Work,Adam Mickiewicz University,Japan,126
+Steven Orbison,380454,COMMUNICATION TECHNOLOGIES,5503,68,0.5,Frances Berrios,Humanities & Liberal Arts,Charles Darwin University,United Kingdom,786
+Robert Wells,746084,HUMANITIES,6107,80,1.0,Randell Carrillo,Computers & Mathematics,Taras Shevchenko National University of Kyiv,Japan,348
+James Mays,307563,SOIL SCIENCE,3401,95,1.0,John Nicholson,Humanities & Liberal Arts,Boston College,South Korea,556
+Ralph Weatherly,619714,COURT REPORTING,1302,20,1.0,Martha Cline,Health,University of Stuttgart,Germany,121
+Margaret Mondragon,495162,APPLIED MATHEMATICS,5601,48,0.5,Derek Rice,Health,Paris Dauphine University,United States of America,425
+Shannon Richardson,731381,MISCELLANEOUS HEALTH MEDICAL PROFESSIONS,2303,27,0.5,Lorie Lagunas,Psychology & Social Work,"St George’s, University of London",Iran,727
+Samuel Fava,740248,INDUSTRIAL AND MANUFACTURING ENGINEERING,2411,60,0.5,Mildred Brooks,Business,University of Portsmouth,China,317
+Stephanie Burrell,452751,MISCELLANEOUS BIOLOGY,2406,97,1.0,Silvia Vinyard,Biology & Life Science,"St George’s, University of London",Hong Kong,528
+Aurora Dominguez,317057,COMPUTER NETWORKING AND TELECOMMUNICATIONS,2502,79,1.0,Miranda Edmonds,Health,Sun Yat-sen University,Thailand,582
+David Atkinson,108891,COMMUNICATIONS,3701,15,0.5,Timothy Hooper,Communications & Journalism,Shanghai University,Germany,488
+Bertha Hirsch,227316,DRAMA AND THEATER ARTS,2102,13,1.0,Trisha Bramblett,Computers & Mathematics,Michigan Technological University,United States of America,458
+George Torres,650140,CRIMINAL JUSTICE AND FIRE PROTECTION,6105,38,1.0,Rob Olson,Arts,Tallinn University of Technology,United Kingdom,169
+Sam Overton,571255,PUBLIC ADMINISTRATION,5401,14,1.0,Charles Camacho,Humanities & Liberal Arts,University of Debrecen,Sweden,484
+Bernard Cotton,386477,NURSING,2407,40,0.5,Ralph Taylor,Biology & Life Science,University of North Carolina at Chapel Hill,Japan,238
+Lorraine Granger,605162,THEOLOGY AND RELIGIOUS VOCATIONS,4801,12,0.5,Joyce Webb,Computers & Mathematics,Medical University of South Carolina,Canada,398
+Donna Garner,241675,STUDIO ARTS,2100,54,0.5,Diane Ayers,Agriculture & Natural Resources,Slovak University of Technology in Bratislava,Republic of Ireland,743
+Sammy Stewart,908883,NUTRITION SCIENCES,1106,28,1.0,Raymond Binkley,Health,Andhra University,Hungary,275
+Kendra Gonzales,465237,COSMETOLOGY SERVICES AND CULINARY ARTS,5299,5,1.0,Rob Olson,Agriculture & Natural Resources,Savitribai Phule Pune University,Luxembourg,313
+Katherine Cochrane,387153,UNITED STATES HISTORY,5203,18,0.5,Ebony Weiss,Business,National Yang-Ming University,Turkey,664
+Chastity Wilson,435147,ECOLOGY,2304,1,1.0,Grace Rivera,Business,National Autonomous University of Mexico,Egypt,543
+Barbara Sanford,251138,GENERAL AGRICULTURE,5505,20,0.5,Edward Jackson,Health,University of Basel,United States of America,704
+Matthew Delong,923070,CIVIL ENGINEERING,2399,63,0.5,Herbert Threet,Physical Sciences,Belarusian State University,United States of America,598
+Chad Shepard,437186,MECHANICAL ENGINEERING,2306,78,0.5,Phyllis Briggs,Education,University of Bari Aldo Moro,United Arab Emirates,284
+Laura Smith,934514,FILM VIDEO AND PHOTOGRAPHIC ARTS,3202,87,0.5,Ruth Bullock,Arts,Oxford Brookes University,South Africa,340
+Marilyn Rochester,689022,ANIMAL SCIENCES,6204,55,0.5,Henry Steward,Health,Technical University of Munich,Russian Federation,340
+Ruby Thomas,841348,GENERAL SOCIAL SCIENCES,5003,68,1.0,Joanna Tyson,Social Science,Norwegian University of Science and Technology,United States of America,214
+Paula Wright,122737,JOURNALISM,1102,77,0.5,Pamela Gammon,Psychology & Social Work,Brunel University London,United States of America,372
+Marilyn Rochester,148128,PHILOSOPHY AND RELIGIOUS STUDIES,6202,68,1.0,James Hoffman,Biology & Life Science,Arizona State University,United States of America,622
+Norman Randolph,445997,FOOD SCIENCE,1106,11,1.0,Leonore Flynn,Social Science,University of KwaZulu-Natal,United Kingdom,55
+Mary Eastman,942776,GEOSCIENCES,2303,86,1.0,Cheryl Brown,Psychology & Social Work,Tokyo Medical and Dental University (TMDU),Australia,417
+Ebony Weiss,506251,COMMERCIAL ART AND GRAPHIC DESIGN,6204,85,1.0,Shirley Odum,Engineering,University of Iceland,China,445
+Lois Miller,458461,EDUCATIONAL ADMINISTRATION AND SUPERVISION,5402,77,0.5,Caren Phipps,Engineering,Peter the Great St Petersburg Polytechnic University,Russian Federation,684
+Victoria Pena,185361,CLINICAL PSYCHOLOGY,2601,70,0.5,Karen Peter,Business,Gwangju Institute of Science and Technology,Turkey,729
+Maya Bowers,202094,NURSING,5005,35,1.0,Stephanie Reed,Industrial Arts & Consumer Services,University of Nairobi,Spain,570
+David Phillips,988139,BIOMEDICAL ENGINEERING,2101,16,1.0,David Simmons,Computers & Mathematics,Pierre and Marie Curie University,United States of America,231
+Joseph Fuqua,869391,MECHANICAL ENGINEERING,3801,55,1.0,Scott Peterson,Biology & Life Science,University of Limerick,South Korea,556
+Linda Hogue,831901,MISCELLANEOUS EDUCATION,6209,75,0.5,Kenneth Greenlee,Education,"Asia University, Taiwan",Spain,372
+Lisa Ham,681550,CHEMICAL ENGINEERING,3401,77,0.5,Thomas Jessup,Education,University of La Laguna,United States of America,337
+Heather Kendall,271763,BIOLOGICAL ENGINEERING,3402,57,1.0,Jeremy Gough,Social Science,Vanderbilt University,Netherlands,1
+Becky Velez,953002,NURSING,2403,10,1.0,Stephanie Martinez,Business,Hebrew University of Jerusalem,Switzerland,374
+Don Aguirre,545330,"NUCLEAR, INDUSTRIAL RADIOLOGY, AND BIOLOGICAL TECHNOLOGIES",3801,59,0.5,Jimmy Farmer,Engineering,University of Tehran,South Korea,656
+Susan Ramirez,706290,INTERNATIONAL RELATIONS,6103,32,1.0,Marilyn Gill,Humanities & Liberal Arts,Leibniz University of Hanover,Egypt,467
+Vickie Watson,326226,GENERAL ENGINEERING,6108,88,1.0,Lee Sailor,Education,Tokyo University of Science,United Kingdom,1
+Elizabeth Bond,667165,INTERDISCIPLINARY SOCIAL SCIENCES,6299,80,1.0,James Hagan,Biology & Life Science,Indian Institute of Technology Madras,United Kingdom,11
+Frankie Skinner,196282,UNITED STATES HISTORY,5507,81,0.5,Donna McGonigal,Humanities & Liberal Arts,K.N. Toosi University of Technology,New Zealand,733
+Diane Combs,472005,AEROSPACE ENGINEERING,6104,16,1.0,Stephanie Wright,Health,William & Mary,China,669
+Robert Smalls,742227,LINGUISTICS AND COMPARATIVE LANGUAGE AND LITERATURE,5000,65,1.0,Jeffrey Hicks,Law & Public Policy,Shinshu University,Hungary,338
+Robert Little,371196,LIBERAL ARTS,2601,98,0.5,Aaron Macy,Humanities & Liberal Arts,University of Kaiserslautern,India,407
+Ana Hough,813819,SOCIAL PSYCHOLOGY,1103,71,1.0,Jerry Black,Education,University of Alcalá,Singapore,400
+Gladys Wagner,856949,ARCHITECTURAL ENGINEERING,3501,38,0.5,Sarah Tate,Physical Sciences,University of Bari Aldo Moro,Malaysia,115
+Christopher Yarger,736460,ECONOMICS,3608,2,0.5,Stephanie Wright,Computers & Mathematics,University of Parma,Spain,807
+Leonard Lonergan,532558,INTERNATIONAL RELATIONS,6205,100,0.5,Diane King,Business,University at Buffalo,India,14
+Betty Strine,327982,NUCLEAR ENGINEERING,6003,56,1.0,Melvin Berkowitz,Health,National Chung Hsing University,Japan,642
+Chastity Wilson,188921,GENERAL ENGINEERING,2406,86,1.0,Joseph Larsen,Industrial Arts & Consumer Services,University of Ljubljana,United Kingdom,536
+Joseph Gray,782363,MATHEMATICS,3302,1,1.0,David Desantis,Social Science,Okayama University,China,608
+Guillermo Cribb,193452,SOIL SCIENCE,6104,37,1.0,Linda Figueroa,Engineering,University of York,Canada,185
+Angie Nadler,193604,"NUCLEAR, INDUSTRIAL RADIOLOGY, AND BIOLOGICAL TECHNOLOGIES",2313,19,1.0,See Ragsdale,Social Science,Feng Chia University,United States of America,169
+Addie King,257693,MATHEMATICS TEACHER EDUCATION,3702,21,0.5,Frankie Skinner,Agriculture & Natural Resources,National Cheng Kung University,United States of America,285
+Vaughn Jackson,857829,GEOGRAPHY,2405,96,1.0,Tara Porter,Computers & Mathematics,Ulster University,United Kingdom,371
+Norman Randolph,786140,APPLIED MATHEMATICS,1103,48,0.5,Patricia Shannon,Engineering,University of Padua,Taiwan,216
+Mildred Jennings,710046,ENGINEERING MECHANICS PHYSICS AND SCIENCE,6212,83,1.0,Brian Davis,Communications & Journalism,Tomsk State University,United States of America,309
+Chad Paterson,384966,COMPOSITION AND RHETORIC,1102,81,1.0,David Chess,Business,University of Otago,United States of America,8
+Dan Lee,248308,MECHANICAL ENGINEERING,2504,52,0.5,Amber Hall,Computers & Mathematics,TU Dresden,United States of America,577
+Virginia Daniels,911501,PHILOSOPHY AND RELIGIOUS STUDIES,2410,91,1.0,Mickey Groves,Humanities & Liberal Arts,National Research Nuclear University MePhI,Belgium,576
+Jodi Albert,718993,NATURAL RESOURCES MANAGEMENT,2305,60,1.0,Chad Paterson,Industrial Arts & Consumer Services,Pontifical Catholic University of Paraná,Japan,597
+Michael Anderson,430968,COMMERCIAL ART AND GRAPHIC DESIGN,5501,7,1.0,James Brooks,Psychology & Social Work,University of Seoul,United States of America,610
+Cora Marguez,251627,PHYSICAL FITNESS PARKS RECREATION AND LEISURE,1303,93,0.5,Stephen Holst,Business,Paris Descartes University,Sweden,557
+Pedro Boyer,102871,PETROLEUM ENGINEERING,5201,60,1.0,Leslie Gadson,Biology & Life Science,University of Graz,Sweden,431
+Tina Lovato,244516,COMMUNICATION DISORDERS SCIENCES AND SERVICES,1199,36,1.0,Carol Thomas,Computers & Mathematics,University of Portsmouth,United States of America,645
+Mary Zhang,414707,SCIENCE AND COMPUTER TEACHER EDUCATION,1105,59,1.0,Charmaine Fisher,Industrial Arts & Consumer Services,University of Medicine and Dentistry of New Jersey,Republic of Ireland,345
+Darnell Moore,683110,LIBRARY SCIENCE,3201,0,0.5,Carey Cacho,Biology & Life Science,Vilnius University,China,18
+Brittany Taylor,979054,COMPUTER NETWORKING AND TELECOMMUNICATIONS,2403,16,1.0,Maya Bowers,Arts,Mahidol University,Canada,392
+Angela Stone,857055,ACCOUNTING,6105,33,1.0,Marion Wiggin,Psychology & Social Work,Suez Canal University,Greece,475
+Jack Jenkins,246693,HUMANITIES,6007,56,0.5,Rene McGinnis,Engineering,National Tsing Hua University,United States of America,117
+Stephanie Atkinson,628030,PUBLIC POLICY,5599,71,1.0,Peter Johnson,Health,University of Otago,Iran,663
+Maria Ball,233616,ENVIRONMENTAL ENGINEERING,2501,80,0.5,Carol Thomas,Physical Sciences,Taipei Medical University,China,89
+Frances Berrios,905066,SOCIAL WORK,5203,81,1.0,Raymond Munoz,Psychology & Social Work,University of Texas at Arlington,China,386
+Edward Jackson,573615,COMPUTER ENGINEERING,6204,68,0.5,Elaine Bridwell,Biology & Life Science,Wuhan University,China,794
+Joanna Tyson,338986,ENGINEERING AND INDUSTRIAL MANAGEMENT,2201,50,1.0,Sam Overton,Biology & Life Science,University of Strasbourg,United States of America,460
+Maureen King,679935,INDUSTRIAL AND ORGANIZATIONAL PSYCHOLOGY,5003,98,1.0,Ulysses Bennett,Psychology & Social Work,Ocean University of China,Greece,688
+Marty Thomas,292423,HOSPITALITY MANAGEMENT,6000,56,0.5,Timothy Moore,Physical Sciences,University of Alberta,Sweden,714
+Nathan Suzuki,422014,AGRICULTURE PRODUCTION AND MANAGEMENT,3607,37,1.0,Barbara Favors,Industrial Arts & Consumer Services,Hong Kong Polytechnic University,Italy,788
+Sharron Higdon,760744,ENGINEERING TECHNOLOGIES,6004,86,1.0,Scott Wyche,Business,Leibniz University of Hanover,Taiwan,61
+Linda Figueroa,172149,TEACHER EDUCATION: MULTIPLE LEVELS,3201,7,1.0,Bonnie Arevalo,Humanities & Liberal Arts,Chinese University of Hong Kong,United States of America,639
+Jason Emrick,338222,ENGINEERING MECHANICS PHYSICS AND SCIENCE,5003,80,1.0,Herbert Threet,Health,University of Zaragoza,Taiwan,760
+Ken Goldstein,650802,ARCHITECTURAL ENGINEERING,5202,33,1.0,Carolyn Creger,Agriculture & Natural Resources,Fudan University,United States of America,507
+Christopher Peterson,274816,CRIMINOLOGY,3605,62,0.5,Christopher Hansen,Engineering,Paris-Sorbonne University – Paris 4,Italy,427
+Teri Bush,584029,ECOLOGY,1103,98,1.0,William Sheehan,Humanities & Liberal Arts,Tianjin University,United Kingdom,536
+Catherine Lynch,435473,COMPUTER PROGRAMMING AND DATA PROCESSING,6210,78,0.5,David Enriquez,Engineering,University of Sheffield,France,700
+Trisha Bramblett,462820,SECONDARY TEACHER EDUCATION,2307,63,0.5,Ulysses Bennett,Humanities & Liberal Arts,Humboldt University of Berlin,Brazil,253
+Ronald Hendon,297039,PRE-LAW AND LEGAL STUDIES,6100,49,0.5,Jim Smith,Engineering,University of Pisa,Taiwan,482
+Howard Woodall,189415,AEROSPACE ENGINEERING,2403,33,0.5,Barbara Jones,Biology & Life Science,Yeshiva University,Germany,267
+Dalton Norfleet,467845,INDUSTRIAL AND ORGANIZATIONAL PSYCHOLOGY,5507,54,1.0,Ralph Taylor,Humanities & Liberal Arts,Cardiff University,United Kingdom,641
+Elizabeth Washington,403639,MULTI/INTERDISCIPLINARY STUDIES,2413,47,0.5,Dalton Norfleet,Business,Queensland University of Technology,United Kingdom,293
+Royal Scott,819821,ENVIRONMENTAL ENGINEERING,5007,20,0.5,James Little,Agriculture & Natural Resources,Emory University,Japan,243
+Sam Overton,806691,NAVAL ARCHITECTURE AND MARINE ENGINEERING,2414,94,0.5,Andrea Smith,Agriculture & Natural Resources,Pennsylvania State University,Taiwan,70
+Wilma Russell,447296,MILITARY TECHNOLOGIES,5599,58,1.0,Heather Greenwood,Humanities & Liberal Arts,Griffith University,Norway,47
+Barbara Carney,789717,LIBRARY SCIENCE,5500,57,1.0,Phillip Rodriguez,Communications & Journalism,Carleton University,Mexico,618
+Lauren Black,916671,PHYSICAL FITNESS PARKS RECREATION AND LEISURE,6108,20,0.5,Debra Hays,Business,Plymouth University,United States of America,221
+Patricia Callender,460911,CHEMICAL ENGINEERING,4901,40,0.5,Raymond Munoz,Health,"California State University, Long Beach",Australia,729
+Karen Silverman,733446,MISCELLANEOUS BUSINESS & MEDICAL ADMINISTRATION,5206,87,0.5,Christopher Peterson,Engineering,University of Coimbra,United States of America,266
+Barbara Scott,405385,CONSTRUCTION SERVICES,5008,37,1.0,Raymond Binkley,Computers & Mathematics,Inha University,Macau,107
+Eva Reid,286845,MEDICAL ASSISTING SERVICES,5007,29,1.0,Darrell Hightower,Engineering,University of Milan-Bicocca,China,624
+Kendra Gonzales,547282,COMPUTER AND INFORMATION SYSTEMS,5507,48,0.5,Raymond Binkley,Education,University of Murcia,Hong Kong,783
+Bonnie Arevalo,316949,SOCIAL PSYCHOLOGY,5007,72,1.0,Don Aguirre,Engineering,Lille 1 University – Science and Technology,United States of America,199
+Lois Buss,280130,MISCELLANEOUS ENGINEERING,3700,84,1.0,Robert Bohrer,Computers & Mathematics,Showa University,Japan,721
+Zachary Melendez,112505,NEUROSCIENCE,5502,78,1.0,Steven Ranieri,Engineering,Örebro University,Japan,781
+James Shearer,649161,NUTRITION SCIENCES,6299,33,1.0,Sandra Schweiger,Law & Public Policy,Nanjing University,France,79
+Joseph Scribner,383890,ELEMENTARY EDUCATION,2408,91,0.5,Lewis Knudsen,Education,Drexel University,Taiwan,447
+Mark Thompson,487594,ENGINEERING MECHANICS PHYSICS AND SCIENCE,2300,90,1.0,Derek Rice,Health,University of Southern Mississippi,Saudi Arabia,167
+Jarrod Sera,583079,COMPUTER NETWORKING AND TELECOMMUNICATIONS,2413,48,1.0,Nancy Vickers,Physical Sciences,"University of California, Los Angeles",France,690
+Raymond Munoz,404721,MISCELLANEOUS BUSINESS & MEDICAL ADMINISTRATION,6299,100,1.0,Pamela Gammon,Arts,K.N. Toosi University of Technology,China,90
+Royal Scott,623256,PHARMACOLOGY,5007,69,0.5,Leigh Wallace,Business,London School of Economics and Political Science,United Kingdom,672
+Cora Marguez,123818,ARCHITECTURAL ENGINEERING,5401,24,0.5,Trisha Bramblett,Psychology & Social Work,University of Cagliari,United States of America,580
+Vickie Lafferty,899299,ENGINEERING TECHNOLOGIES,6104,35,1.0,Martin Rosenthal,Education,Leiden University,New Zealand,42
+Ralph Weatherly,138265,HEALTH AND MEDICAL PREPARATORY PROGRAMS,3609,77,1.0,Vera Merrill,Computers & Mathematics,Iran University of Science and Technology,Turkey,478
+Marilyn Gill,237112,GENERAL BUSINESS,2301,7,1.0,Ruth Lane,Education,University of Granada,Portugal,718
+Heather Gonzalez,525085,FINANCE,6201,4,0.5,Roberto Hathaway,Psychology & Social Work,University of Salamanca,United States of America,427
+Betty Strine,997426,GENERAL SOCIAL SCIENCES,2107,89,0.5,David Atkinson,Psychology & Social Work,East China Normal University,United States of America,751
+Ashley Garcia,785085,MISCELLANEOUS BIOLOGY,6105,49,1.0,Susan Welsh,Engineering,Université Catholique de Louvain,China,650
+Luis Barber,639701,GEOLOGY AND EARTH SCIENCE,3601,94,1.0,Victoria Pena,Industrial Arts & Consumer Services,University of Oregon,United States of America,205
+Kristin Votaw,362078,COMPUTER NETWORKING AND TELECOMMUNICATIONS,6006,60,1.0,Marie Clark,Engineering,Florida State University,Taiwan,616
+Vincent Ray,822510,COMMERCIAL ART AND GRAPHIC DESIGN,2406,24,1.0,Jennifer Peters,Psychology & Social Work,University of Fribourg,United States of America,659
+Vivian Odell,292926,BIOLOGICAL ENGINEERING,1303,30,1.0,Krista Baker,Biology & Life Science,University of Oklahoma,Japan,669
+Todd Pruitt,436369,POLITICAL SCIENCE AND GOVERNMENT,2106,77,1.0,Lawrence Aldridge,Engineering,University of Connecticut,South Korea,714
+Mary Morgan,692801,HISTORY,3609,11,1.0,Carroll Rider,Psychology & Social Work,Saint Petersburg State University,France,359
+Cora Marguez,936381,PRE-LAW AND LEGAL STUDIES,5403,4,1.0,Maria Rosenzweig,Health,University of Turin,Sweden,551
+Juanita Robinson,782015,EDUCATIONAL PSYCHOLOGY,6212,67,0.5,Anita Hernandez,Engineering,Lille 2 University – Health and Law,Switzerland,620
+Maria Nelson,194702,EARLY CHILDHOOD EDUCATION,3608,73,0.5,Ulysses Bennett,Biology & Life Science,Aix-Marseille University,United Kingdom,473
+Lucas Palmer,719973,COMMUNICATIONS,6205,51,0.5,Mary Eastman,Psychology & Social Work,University of Electronic Science and Technology of China,Malaysia,541
+Leonore Flynn,864304,LANGUAGE AND DRAMA EDUCATION,5202,30,0.5,Thomas Siegel,Biology & Life Science,Bar-Ilan University,Ghana,646
+Norman Randolph,218677,INTERCULTURAL AND INTERNATIONAL STUDIES,2311,54,0.5,Debra Burgin,Biology & Life Science,University of Exeter,Norway,191
+Earl Henry,232292,ARCHITECTURAL ENGINEERING,3202,41,0.5,Henry Steward,Agriculture & Natural Resources,Nagasaki University,Norway,90
+Jennifer Collins,739278,ARCHITECTURAL ENGINEERING,1103,71,0.5,Linda Cabrera,Psychology & Social Work,University of Iowa,United States of America,736
+Brian Reyes,681326,HUMAN SERVICES AND COMMUNITY ORGANIZATION,6204,64,1.0,Vickie Watson,Humanities & Liberal Arts,University of Canterbury,United States of America,422
+Betty Sewell,389088,INTERNATIONAL BUSINESS,5205,28,1.0,Martha Cline,Physical Sciences,Andhra University,United States of America,113
+Dianne Place,720508,FILM VIDEO AND PHOTOGRAPHIC ARTS,1103,56,1.0,Norris Gomez,Humanities & Liberal Arts,University of Lisbon,United States of America,103
+Teri Bush,132992,SECONDARY TEACHER EDUCATION,3607,21,1.0,Virginia Harris,Engineering,National Autonomous University of Mexico,Germany,667
+Phyllis Gonzalas,117685,AGRICULTURE PRODUCTION AND MANAGEMENT,6205,42,1.0,Luis Irwin,Engineering,Old Dominion University,Spain,472
+Ethel Begley,735995,PUBLIC POLICY,2408,90,1.0,Linda Cabrera,Education,University of Victoria,New Zealand,617
+Scott Peterson,305466,TRANSPORTATION SCIENCES AND TECHNOLOGIES,5203,50,1.0,Keith Robinson,Engineering,King Saud University,Turkey,609
+Alana Watkins,902822,OCEANOGRAPHY,5701,18,0.5,Lucille Humble,Engineering,University of Modena and Reggio Emilia,Taiwan,646
+Loretta Hopkins,142255,MANAGEMENT INFORMATION SYSTEMS AND STATISTICS,2101,39,0.5,Gail Knox,Industrial Arts & Consumer Services,Coventry University,United Kingdom,797
+Joseph Springer,113273,COURT REPORTING,6402,81,0.5,Cheryl Wise,Engineering,University of Salento,South Korea,317
+Nancy Lee,166914,ART HISTORY AND CRITICISM,5503,85,1.0,Wayne Thomas,Communications & Journalism,University of Bucharest,Turkey,780
+John Singleton,451301,PHYSICAL SCIENCES,2418,82,0.5,Matthew Denzer,Business,University of Toledo,United States of America,357
+Kenneth Marmon,547671,SOCIOLOGY,2305,61,1.0,Jason Emrick,Engineering,Université de Sherbrooke,Norway,578
+Valerie Yancy,605241,CRIMINAL JUSTICE AND FIRE PROTECTION,3605,71,0.5,Thomas Greene,Health,Kyungpook National University,Pakistan,62
+Vernon Dickerson,843273,MATERIALS SCIENCE,2101,25,1.0,James Hagan,Engineering,University of Ibadan,Malaysia,781
+Hong Davies,850131,EDUCATIONAL ADMINISTRATION AND SUPERVISION,2419,55,0.5,Marion Wiggin,Psychology & Social Work,Queen Mary University of London,United Kingdom,589
+George Jackson,142771,CIVIL ENGINEERING,5202,17,1.0,Robert Stewart,Social Science,Chinese University of Hong Kong,Chile,436
+Dana Fernandez,145867,ENVIRONMENTAL SCIENCE,5000,60,1.0,Eleanor Deleon,Physical Sciences,Yeungnam University,Japan,171
+Brad Butler,662738,MUSIC,2311,60,1.0,Charlotte Jones,Computers & Mathematics,Hong Kong Polytechnic University,Australia,20
+Trisha Bramblett,601146,OCEANOGRAPHY,3402,17,1.0,Carroll Rider,Psychology & Social Work,University of Vigo,Netherlands,483
+Patrick Spurlock,296500,LIBERAL ARTS,1903,16,0.5,Vincent Ray,Computers & Mathematics,University of Szeged,Belgium,270
+Miranda Edmonds,179277,COMPUTER ADMINISTRATION MANAGEMENT AND SECURITY,2599,13,1.0,Francis Sanders,Psychology & Social Work,University of Geneva,United Kingdom,366
+John Singleton,234690,COMMUNICATION TECHNOLOGIES,5098,68,0.5,Kenneth Greenlee,Communications & Journalism,University of Nebraska-Lincoln,Australia,613
+Jeffrey Hicks,437083,OTHER FOREIGN LANGUAGES,2500,27,0.5,Rickey Birkland,Social Science,University of Pavia,Portugal,448
+Allen Ramirez,175256,CRIMINOLOGY,5507,38,1.0,Lorene Martin,Engineering,Yokohama City University,United States of America,525
+Alicia Thompson,399369,ARCHITECTURAL ENGINEERING,2310,48,1.0,Jeffery Diaz,Physical Sciences,Ruhr University Bochum,Finland,230
+Clara Holloman,673701,FOOD SCIENCE,3607,42,0.5,William Johnson,Agriculture & Natural Resources,VŠB - Technical University of Ostrava,United Kingdom,149
+Clayton Hall,152891,ELEMENTARY EDUCATION,5102,7,1.0,Mary Gerow,Biology & Life Science,University of Utah,United States of America,710
+Guillermo Cribb,821654,INFORMATION SCIENCES,4002,31,0.5,Mildred Mello,Physical Sciences,Charité - Universitätsmedizin Berlin,Brazil,753
+Harold Estrada,154218,BIOLOGY,6004,26,1.0,Ralph Harris,Engineering,Pontifical Catholic University of Valparaíso,South Korea,88
+Gertrude Townsend,237888,EARLY CHILDHOOD EDUCATION,2308,93,1.0,Emma Richards,Arts,Federal University of Viçosa,United Kingdom,551
+Jerry Black,397417,MATERIALS ENGINEERING AND MATERIALS SCIENCE,5200,49,1.0,Pedro Boyer,Humanities & Liberal Arts,Missouri University of Science and Technology,United Kingdom,608
+Judith Miller,159792,COMPUTER ADMINISTRATION MANAGEMENT AND SECURITY,2901,88,0.5,Barbara Sanford,Biology & Life Science,Kyoto University,United States of America,156
+William Bynoe,525814,COMPOSITION AND RHETORIC,5601,20,1.0,Brian Reyes,Psychology & Social Work,Aligarh Muslim University,Italy,787
+William Rosen,900699,SECONDARY TEACHER EDUCATION,1904,20,0.5,Harry Cusick,Engineering,Flinders University,Australia,602
+William Reed,660663,MISCELLANEOUS ENGINEERING,6202,44,1.0,Dessie Felton,Engineering,National Autonomous University of Mexico,France,35
+John Griffin,287134,EARLY CHILDHOOD EDUCATION,6210,41,1.0,Charles Hanrahan,Humanities & Liberal Arts,Queen’s University,South Korea,484
+Stephanie Wright,428606,VISUAL AND PERFORMING ARTS,2410,96,0.5,Cheryl Wise,Physical Sciences,Yale University,Finland,75
+Linda Hogue,586471,MISCELLANEOUS BIOLOGY,1303,85,1.0,Eileen Pierce,Engineering,University of Groningen,United States of America,73
+Shawn McCleery,649453,COSMETOLOGY SERVICES AND CULINARY ARTS,6000,28,0.5,Jason Smith,Communications & Journalism,Bar-Ilan University,United Kingdom,471
+Daniel Lara,429622,CONSTRUCTION SERVICES,5008,23,1.0,Marie Clark,Communications & Journalism,University of Southampton,Japan,617
+Catherine Powell,537975,INDUSTRIAL AND ORGANIZATIONAL PSYCHOLOGY,6109,45,1.0,Claretta Brown,Health,University of Stuttgart,Argentina,210
+Gertrude Robinson,808466,ELEMENTARY EDUCATION,2301,90,1.0,Mary Bridges,Engineering,Colorado School of Mines,Australia,532
+Tina Mangrum,790990,ZOOLOGY,3609,98,1.0,Celeste Johnson,Business,University of Strathclyde,Germany,229
+Richard Moe,400189,INDUSTRIAL AND ORGANIZATIONAL PSYCHOLOGY,1104,12,0.5,Frankie Skinner,Engineering,Nagasaki University,United States of America,37
+Dorothy Dean,701136,MISCELLANEOUS SOCIAL SCIENCES,5000,87,0.5,Charles Carter,Humanities & Liberal Arts,Massachusetts Institute of Technology,Singapore,687
+Robert Stewart,954976,OTHER FOREIGN LANGUAGES,2402,68,0.5,Lillian Cleveland,Business,"Birla Institute of Technology and Science, Pilani",Russian Federation,685
+Jacki Sprenger,475635,MILITARY TECHNOLOGIES,3401,42,1.0,Lynda Saiz,Arts,Portland State University,Hungary,407
+Mark Thompson,778203,MULTI/INTERDISCIPLINARY STUDIES,2201,7,1.0,Chuck Mahoney,Engineering,University of Porto,Taiwan,244
+Phyllis Briggs,356053,ATMOSPHERIC SCIENCES AND METEOROLOGY,2309,84,1.0,Marianne McCoy,Computers & Mathematics,Université du Québec à Montréal,Russian Federation,38
+Earl Cyr,903547,MULTI-DISCIPLINARY OR GENERAL SCIENCE,3202,64,1.0,Gina Casto,Biology & Life Science,Kobe University,Canada,472
+Sandra Vega,626087,INTERNATIONAL BUSINESS,6003,51,1.0,Lillian Cleveland,Physical Sciences,Université Libre de Bruxelles,Germany,49
+Mary Peterson,431576,MECHANICAL ENGINEERING RELATED TECHNOLOGIES,5403,73,1.0,Patricia Judd,Health,National and Kapodistrian University of Athens,United States of America,764
+Celeste Johnson,909979,PHARMACOLOGY,1102,28,1.0,Laura Smith,Humanities & Liberal Arts,University of Paris North – Paris 13,South Korea,332
+Vickie Watson,605355,BIOLOGY,6210,78,0.5,Garrett Harris,Psychology & Social Work,China Agricultural University,France,770
+Lillian Cleveland,668623,ANTHROPOLOGY AND ARCHEOLOGY,1303,67,0.5,Betty Strine,Industrial Arts & Consumer Services,Georgia State University,United Kingdom,438
+Harold Tillman,689562,AGRICULTURAL ECONOMICS,6099,71,1.0,Amanda Gerlach,Industrial Arts & Consumer Services,Middle East Technical University,United Kingdom,173
+Jason Emrick,367745,MEDICAL TECHNOLOGIES TECHNICIANS,1199,4,0.5,Shannon Richardson,Engineering,University of Alberta,United States of America,31
+James Mays,136391,ENGINEERING AND INDUSTRIAL MANAGEMENT,6109,24,1.0,Charles Camacho,Engineering,Lappeenranta University of Technology,United Kingdom,132
+Lina Cotton,638903,COMMUNICATION DISORDERS SCIENCES AND SERVICES,6109,15,1.0,Edith Pearson,Computers & Mathematics,Princeton University,Turkey,255
+Linda Hogue,100513,GENERAL MEDICAL AND HEALTH SERVICES,5901,62,1.0,Tony Ragsdale,Biology & Life Science,University of Birmingham,Turkey,138
+Linda Steger,901583,ASTRONOMY AND ASTROPHYSICS,5299,91,1.0,Sammy Smith,Engineering,University of Haifa,Czech Republic,19
+Tammy Warren,504622,AREA ETHNIC AND CIVILIZATION STUDIES,5507,53,0.5,Sonia Burcham,Arts,Rensselaer Polytechnic Institute,South Korea,202
+Weldon Cady,750183,BOTANY,2399,76,1.0,Mercedes Lindsay,Physical Sciences,Wuhan University of Technology,United Kingdom,442
+Timothy Piper,682173,COMMERCIAL ART AND GRAPHIC DESIGN,5006,67,1.0,James Vath,Physical Sciences,Georgia State University,China,521
+Carmen Bell,394519,MISCELLANEOUS BUSINESS & MEDICAL ADMINISTRATION,2303,56,0.5,Joe Lopez,Computers & Mathematics,Creighton University,Turkey,382
+Retha Smith,775304,PLANT SCIENCE AND AGRONOMY,6107,44,0.5,Becky Velez,Engineering,University of Hamburg,Australia,45
+Randy Henderson,962885,INTERDISCIPLINARY SOCIAL SCIENCES,1102,94,0.5,Samuel Mullin,Engineering,Massachusetts Institute of Technology,United States of America,139
+Kimberly Hays,778571,COMMUNITY AND PUBLIC HEALTH,2417,13,0.5,Jane Moon,Computers & Mathematics,University of Surrey,United States of America,115
+Nicholas Patridge,789214,ARCHITECTURE,5008,4,0.5,John Weatherly,Humanities & Liberal Arts,Memorial University of Newfoundland,Japan,416
+Kenneth Greenlee,430782,FINE ARTS,3501,2,1.0,Patricia Floyd,Industrial Arts & Consumer Services,Wuhan University of Technology,Italy,607
+Susan Bacon,337194,COMPUTER SCIENCE,1106,76,0.5,Ralph Weatherly,Computers & Mathematics,National Taiwan Ocean University,Denmark,614
+Christopher King,938743,MECHANICAL ENGINEERING RELATED TECHNOLOGIES,3401,22,0.5,Veronica Day,Engineering,University of Ghana,Japan,260
+Robert Wells,743313,MATHEMATICS,6210,77,1.0,Jacqueline Ferris,Health,University of Florence,Canada,511
+Lewis Knudsen,149456,MOLECULAR BIOLOGY,2400,66,0.5,Michael Weller,Education,United Arab Emirates University,China,135
+Norris Gomez,655176,GENERAL AGRICULTURE,5201,42,1.0,Deborah Thomson,Education,Chonnam National University,United States of America,591
+David Hammonds,105084,PHYSIOLOGY,2406,30,0.5,Ruth Robeson,Education,Hong Kong Baptist University,South Africa,569
+Gladys Melo,823701,EDUCATIONAL PSYCHOLOGY,2411,75,1.0,Bertha Hirsch,Law & Public Policy,United Arab Emirates University,United Kingdom,500
+Zachary Anderson,694038,MISCELLANEOUS FINE ARTS,5001,84,1.0,Joseph Gray,Computers & Mathematics,University of Texas at Arlington,Italy,448
+Becky Velez,906226,COUNSELING PSYCHOLOGY,5102,22,0.5,Shannon Richardson,Arts,University of Ghana,New Zealand,627
+Patrick Dawson,834608,COURT REPORTING,3601,32,0.5,Grace Rivera,Business,Université de Sherbrooke,Thailand,42
+Joseph Rives,863536,COMPUTER NETWORKING AND TELECOMMUNICATIONS,2500,33,0.5,Nancy Cunningham,Biology & Life Science,University of Seville,United Kingdom,178
+Armando Lanier,863247,ACTUARIAL SCIENCE,6200,60,1.0,Barbara Carney,Agriculture & Natural Resources,Johannes Kepler University of Linz,United States of America,396
+Jane Moon,372472,EDUCATIONAL ADMINISTRATION AND SUPERVISION,5506,65,0.5,Steve Schuman,Engineering,University of Houston,United States of America,5
+Jay Broussard,719526,GENETICS,5004,32,1.0,Sandra Wong,Humanities & Liberal Arts,University of Pavia,United Kingdom,29
+William Rosen,523731,APPLIED MATHEMATICS,2408,85,1.0,Michael Anderson,Psychology & Social Work,Medical University of South Carolina,Greece,641
+Jason Owens,801218,ART HISTORY AND CRITICISM,1401,11,1.0,Joseph Hammett,Psychology & Social Work,Hacettepe University,China,505
+Robert Smith,220166,MATERIALS SCIENCE,3607,35,1.0,Dawn Guertin,Engineering,Tel Aviv University,Japan,2
+Donna McGonigal,299349,ACTUARIAL SCIENCE,2412,19,0.5,Kendra Gonzales,Health,University at Buffalo,United States of America,555
+Janet Higgs,589958,CRIMINOLOGY,2308,55,0.5,Lisa Ham,Computers & Mathematics,Hunan University,United Kingdom,391
+Elizabeth Smith,412084,MOLECULAR BIOLOGY,6109,21,0.5,April Hawkins,Education,Chung Yuan Christian University,United Kingdom,543
+David Bryson,493325,ART HISTORY AND CRITICISM,2412,99,0.5,Leonard Lonergan,Arts,Chinese University of Hong Kong,India,356
+Kimberly Hays,398839,EARLY CHILDHOOD EDUCATION,6108,94,1.0,Tony Ragsdale,Engineering,Humboldt University of Berlin,United States of America,804
+Cynthia Smith,487343,PRE-LAW AND LEGAL STUDIES,2409,50,1.0,Heidi Malone,Interdisciplinary,Simon Fraser University,Norway,222
+William Norris,570063,DRAMA AND THEATER ARTS,6402,10,0.5,Elizabeth Weldon,Education,National Taiwan University,Canada,463
+Michelle Branson,685258,FRENCH GERMAN LATIN AND OTHER COMMON FOREIGN LANGUAGE STUDIES,1101,6,0.5,Darrell Etherton,Engineering,Ehime University,Brazil,340
+Cora Marguez,123660,HEALTH AND MEDICAL ADMINISTRATIVE SERVICES,1199,23,1.0,Daniel Host,Engineering,Shahid Beheshti University,France,380
+Peggy Mejia,227747,GEOLOGY AND EARTH SCIENCE,2306,64,1.0,Debra Shaw,Arts,Panjab University,Italy,768
+Charles Burnett,704389,ECOLOGY,2402,46,0.5,Katherine Lloyd,Education,Texas Tech University,China,26
+Brad Butler,281252,ANTHROPOLOGY AND ARCHEOLOGY,6005,94,0.5,Darnell Moore,Education,Imperial College London,Brazil,561
+Iris Rodrigues,924173,MISCELLANEOUS SOCIAL SCIENCES,5004,25,1.0,Charles Cortez,Humanities & Liberal Arts,Texas A&M University,China,736
+Gary Goldstein,367116,JOURNALISM,2601,75,1.0,Gregory Byrd,Health,University of Pavia,Australia,209
+Dennis Atwood,213543,FINE ARTS,6001,86,1.0,James Fernandez,Computers & Mathematics,University of Zaragoza,South Africa,28
+Tamara Smith,427913,PHARMACY PHARMACEUTICAL SCIENCES AND ADMINISTRATION,5206,94,0.5,Robert Collins,Education,Chiang Mai University,Portugal,676
+Pauline Rowe,515214,COUNSELING PSYCHOLOGY,2403,24,1.0,Jarrod Sera,Psychology & Social Work,University of Massachusetts,United States of America,515
+Freddie Richardson,811557,MISCELLANEOUS HEALTH MEDICAL PROFESSIONS,1105,22,1.0,Mike Burton,Engineering,University of Florida,South Korea,381
+Vera Merrill,681336,ART HISTORY AND CRITICISM,5006,68,0.5,John Nicholson,Engineering,"University of California, Davis",United Kingdom,678
+David Hammonds,973678,FOOD SCIENCE,3603,29,0.5,Anne Corbett,Biology & Life Science,University of Texas at San Antonio,United States of America,812
+Debra Burgin,211497,NURSING,4007,79,1.0,Richard Moore,Law & Public Policy,Tokyo University of Marine Science and Technology,South Korea,687
+Clara Holloman,665828,APPLIED MATHEMATICS,5504,68,1.0,Anastacia Wooldridge,Agriculture & Natural Resources,Chung-Ang University,Brazil,561
+Douglas Melton,716424,GENETICS,3302,35,1.0,Emma Richards,Social Science,Shantou University,Mexico,705
+Freddy Hartman,564294,MEDICAL TECHNOLOGIES TECHNICIANS,6200,35,1.0,Lance Fossum,Health,University of New South Wales,Finland,302
+Jessica Russell,996710,ECONOMICS,6107,96,0.5,Anthony Shields,Social Science,Chulalongkorn University,Hong Kong,815
+Ryan Haffey,429238,GEOLOGY AND EARTH SCIENCE,2409,91,0.5,Susan Welsh,Business,University of Auckland,United Kingdom,740
+James Carswell,558243,PUBLIC POLICY,2101,99,1.0,John Singleton,Industrial Arts & Consumer Services,Adam Mickiewicz University,Canada,169
+James Weymouth,402361,SOCIOLOGY,5503,20,0.5,Maria Manjarrez,Education,University of Cologne,Israel,141
+Lura Leighty,105594,CRIMINOLOGY,2411,82,0.5,Bernard Cotton,Social Science,Eötvös Loránd University,United States of America,767
+Brenda Miles,524636,AEROSPACE ENGINEERING,6202,96,1.0,Carly Donaldson,Social Science,Belarusian State University,Austria,577
+Jennifer Thomas,744246,GENERAL ENGINEERING,3603,55,1.0,Ruby Martin,Education,Swansea University,Australia,679
+Pauline Rowe,421509,NUCLEAR ENGINEERING,2107,37,1.0,William Johnson,Health,University of Oviedo,United States of America,283
+Kristin Robinson,929591,STUDIO ARTS,5401,29,0.5,Thomas Adolph,Communications & Journalism,China Agricultural University,Brazil,435
+Ricky Miller,541060,HUMAN SERVICES AND COMMUNITY ORGANIZATION,2107,67,1.0,Jessica Russell,Law & Public Policy,"University of Chemistry and Technology, Prague",Taiwan,564
+Rose Jose,936970,MEDICAL ASSISTING SERVICES,6108,43,0.5,Matthew Gurule,Humanities & Liberal Arts,University of Oklahoma,Spain,622
+Bonnie Arevalo,830354,COMPUTER NETWORKING AND TELECOMMUNICATIONS,5001,29,0.5,John Harris,Physical Sciences,University of Tehran,Portugal,36
+Anne Fortenberry,740846,AGRICULTURE PRODUCTION AND MANAGEMENT,4801,41,0.5,Debbie Lee,Engineering,Anadolu University,United States of America,58
+Lonnie Ramos,366759,CHEMISTRY,6104,79,0.5,Scott Gentry,Humanities & Liberal Arts,University of A Coruña,South Korea,639
+Ruth Robeson,426981,ARCHITECTURAL ENGINEERING,2102,43,0.5,Kathy Wahl,Biology & Life Science,University of Virginia,United Kingdom,619
+Brian Davis,416438,POLITICAL SCIENCE AND GOVERNMENT,5403,0,1.0,Anna Ramirez,Engineering,Carlos III University of Madrid,Brazil,367
+Wilbert Jennings,208620,ACCOUNTING,2417,55,0.5,Tiffany Morris,Agriculture & Natural Resources,Masaryk University,France,210
+Dorothy Spaulding,111599,GENERAL BUSINESS,3601,1,1.0,Trenton Askew,Psychology & Social Work,Ben-Gurion University of the Negev,Italy,516
+Susan Ramirez,960380,LIBRARY SCIENCE,2500,38,0.5,Martha Cline,Humanities & Liberal Arts,University of Amsterdam,United States of America,722
+Mickey Groves,375925,AGRICULTURE PRODUCTION AND MANAGEMENT,2314,78,1.0,Sam Overton,Biology & Life Science,Sichuan University,China,693
+Nell Reid,166881,GENERAL BUSINESS,5599,81,0.5,Brandon Lacy,Engineering,Shahid Beheshti University,United States of America,425
+Cynthia McMullen,869737,MEDICAL ASSISTING SERVICES,5301,64,1.0,Margorie Sinkler,Psychology & Social Work,Iowa State University,Russian Federation,742
+Janice Townsend,349861,CHEMISTRY,5501,49,0.5,Bonnie Arevalo,Physical Sciences,Swansea University,South Korea,508
+Terrence Wiley,788719,BIOCHEMICAL SCIENCES,6202,65,1.0,Mark Thompson,Biology & Life Science,Swansea University,Netherlands,96
+Louise Norman,668608,COSMETOLOGY SERVICES AND CULINARY ARTS,5008,8,0.5,Jason Emrick,Health,Northeastern University,Germany,730
+Danny Pimentel,697890,AEROSPACE ENGINEERING,1902,46,0.5,George Brooks,Humanities & Liberal Arts,King Abdulaziz University,Australia,236
+Roger Dixon,974522,GENERAL ENGINEERING,4002,87,0.5,Jacob Truong,Law & Public Policy,University of Oulu,India,522
+Cheryl Brown,198954,GEOGRAPHY,5505,87,1.0,Patsy Cook,Education,University of Basel,Japan,470
+Kathi Senters,528214,COMPUTER ADMINISTRATION MANAGEMENT AND SECURITY,2314,19,1.0,Bianca Vargas,Humanities & Liberal Arts,University of Konstanz,United States of America,640
+Jarrod Sera,457650,MATHEMATICS AND COMPUTER SCIENCE,1105,96,1.0,Margie Remington,Psychology & Social Work,University of Greenwich,Japan,366
+Catherine Lynch,190594,MEDICAL ASSISTING SERVICES,5200,46,0.5,Jason Smith,Computers & Mathematics,Tomsk State University,France,255
+Era Rivera,989064,INFORMATION SCIENCES,5401,81,1.0,Elizabeth Smith,Health,University of Virginia,Ukraine,405
+Elaine Bridwell,484711,UNITED STATES HISTORY,6402,17,1.0,Thomas Adolph,Business,Boston University,Sweden,115
+Frances Berrios,204035,GEOGRAPHY,2503,80,1.0,Lewis Knudsen,Education,University of Bremen,France,733
+Daniel Walker,129542,THEOLOGY AND RELIGIOUS VOCATIONS,6207,6,1.0,Mildred Jennings,Education,University of Manchester,Italy,443
+Columbus Scott,757357,COMMUNICATIONS,3700,32,1.0,William Norris,Psychology & Social Work,University of Kentucky,France,677
+Luis Buchheit,732332,PHYSICAL AND HEALTH EDUCATION TEACHING,2303,71,0.5,Robin Bradley,Law & Public Policy,Chalmers University of Technology,United Kingdom,617
+Mildred Howell,158004,MOLECULAR BIOLOGY,1302,35,0.5,Miranda Edmonds,Arts,University of Würzburg,Japan,477
+Shannon Kelly,721496,MECHANICAL ENGINEERING,5401,79,1.0,Lonnie Biggs,Education,École Polytechnique,Taiwan,336
+Royal Scott,230925,COMPUTER SCIENCE,5006,24,0.5,Lewis Knudsen,Engineering,Universiti Putra Malaysia,Japan,484
+James Jones,786096,MANAGEMENT INFORMATION SYSTEMS AND STATISTICS,1901,72,1.0,Jerry Black,Agriculture & Natural Resources,University of Münster,Austria,777
+Maria Rosenzweig,618616,POLITICAL SCIENCE AND GOVERNMENT,3501,36,0.5,Barbara Favors,Computers & Mathematics,University of Wyoming,Japan,791
+Phyllis Gonzalas,900515,BIOLOGICAL ENGINEERING,6210,82,1.0,Roland Swindler,Business,University of Valencia,Japan,815
+Addie King,534636,ART AND MUSIC EDUCATION,6403,87,1.0,Mickey Groves,Biology & Life Science,Monterrey Institute of Technology and Higher Education,Canada,303
+Matthew Gurule,992908,MICROBIOLOGY,2416,36,1.0,Brenda Miles,Industrial Arts & Consumer Services,Oregon State University,Iran,108
+Rene Page,563614,ACTUARIAL SCIENCE,2301,89,0.5,Sammy Stewart,Arts,AGH University of Science and Technology,Switzerland,80
+Iris Rodrigues,455045,PRE-LAW AND LEGAL STUDIES,2312,56,0.5,Jeremy Gough,Computers & Mathematics,California Institute of Technology,Iran,497
+Michael Wu,137198,EARLY CHILDHOOD EDUCATION,2499,30,1.0,Harry Cusick,Education,"University of California, San Diego",Iran,641
+Harold Estrada,503285,ARCHITECTURE,6209,22,0.5,Katherine Lloyd,Biology & Life Science,Bar-Ilan University,Hungary,184
+Elisa Daley,547926,"NUCLEAR, INDUSTRIAL RADIOLOGY, AND BIOLOGICAL TECHNOLOGIES",5202,20,1.0,Walter Gooding,Biology & Life Science,Sheffield Hallam University,Italy,125
+Harold Estrada,364399,OCEANOGRAPHY,6200,89,1.0,Clement Rother,Computers & Mathematics,"Binghamton University, State University of New York",Netherlands,782
+Lucas Campbell,936583,LIBERAL ARTS,5404,27,1.0,Connie Clow,Business,University of Wyoming,United States of America,527
+Tyrone Case,831361,CHEMICAL ENGINEERING,5601,47,0.5,Betty Wathen,Engineering,University of Science and Technology Beijing,China,663
+Angie Nadler,321136,HUMAN SERVICES AND COMMUNITY ORGANIZATION,6110,39,1.0,Pearl Belton,Law & Public Policy,Brandeis University,United Kingdom,671
+Lana Fager,225198,SCIENCE AND COMPUTER TEACHER EDUCATION,2499,74,1.0,Marilyn Zuniga,Psychology & Social Work,University of Göttingen,Canada,204
+Dennis Atwood,367817,MISCELLANEOUS AGRICULTURE,2405,46,1.0,Henry Steward,Social Science,New Mexico State University,China,752
+Emma Richards,816889,HISTORY,2312,66,1.0,Ronald Jones,Engineering,Sungkyunkwan University (SKKU),Japan,637
+David Simmons,112093,INDUSTRIAL PRODUCTION TECHNOLOGIES,2304,32,1.0,William Baillargeon,Communications & Journalism,Illinois Institute of Technology,United States of America,166
+John Bryant,250430,ENGINEERING AND INDUSTRIAL MANAGEMENT,2100,78,0.5,Ulysses Bennett,Social Science,Queen’s University,South Africa,389
+Nancy Elliott,932690,ECONOMICS,6201,36,1.0,Trisha Bramblett,Social Science,National Chengchi University,South Korea,637
+Michael Wu,288263,SOCIAL WORK,2599,46,1.0,Sarah Tate,Engineering,Chiba University,Saudi Arabia,109
+Jarrod Sera,110356,HUMAN RESOURCES AND PERSONNEL MANAGEMENT,4901,83,0.5,Shelley Lubbers,Agriculture & Natural Resources,University of Auckland,Italy,548
+Stephanie Atkinson,311086,DRAMA AND THEATER ARTS,6210,25,1.0,Joe Lopez,Agriculture & Natural Resources,University of Ghana,Japan,573
+Matthew Parker,955807,BIOLOGY,3801,41,0.5,Michelle Sullivan,Engineering,TU Dresden,Portugal,705
+James Jones,348704,HUMANITIES,2417,24,0.5,Beatrice Harris,Industrial Arts & Consumer Services,Nanyang Technological University,Germany,230
+Francis Sanders,516062,MISCELLANEOUS PSYCHOLOGY,5506,29,1.0,Edward Conley,Education,"University of California, Riverside",Poland,44
+Eileen Williams,824358,PHARMACY PHARMACEUTICAL SCIENCES AND ADMINISTRATION,4001,13,1.0,Howard Woodall,Education,Waseda University,Greece,559
+Anne Fortenberry,396652,INFORMATION SCIENCES,3699,38,1.0,Maureen King,Education,University of Calgary,Kenya,727
+Clement Rother,932566,LIBRARY SCIENCE,2499,43,0.5,Travis Thurman,Interdisciplinary,Carnegie Mellon University,United States of America,651
+Zula Hoffman,710818,EDUCATIONAL PSYCHOLOGY,6108,63,0.5,Lorene Calkins,Biology & Life Science,RMIT University,China,664
+Norman Randolph,267927,PHARMACY PHARMACEUTICAL SCIENCES AND ADMINISTRATION,3301,76,0.5,James Hoffman,Education,University of Tokyo,Germany,521
+Loretta Hopkins,377357,ENVIRONMENTAL ENGINEERING,2504,0,0.5,Eileen Pierce,Biology & Life Science,University of Sheffield,Greece,814
+Mark Wroblewski,606385,HEALTH AND MEDICAL PREPARATORY PROGRAMS,6203,83,1.0,Donald Carlson,Engineering,Toulouse 1 Capitole University,United States of America,314
+Joseph Gray,917125,COMMUNICATION TECHNOLOGIES,5901,93,0.5,Sandra Vega,Humanities & Liberal Arts,Sophia University,Russian Federation,170
+Barbara Lucio,319930,EDUCATIONAL PSYCHOLOGY,6200,86,1.0,Faustino Vicknair,Engineering,Suranaree University of Technology,South Korea,39
+Mildred Jennings,546432,GENERAL ENGINEERING,6099,52,1.0,Donald Carlson,Health,Justus Liebig University Giessen,Taiwan,293
+Megan Kaplan,105165,COMPUTER NETWORKING AND TELECOMMUNICATIONS,5401,27,0.5,Leonard Bonk,Social Science,Bauman Moscow State Technical University,Belgium,554
+Jennifer Thomas,629245,COGNITIVE SCIENCE AND BIOPSYCHOLOGY,2601,24,0.5,Shana Labbe,Computers & Mathematics,University of Jyväskylä,Portugal,204
+Glen Ali,937147,ACCOUNTING,3607,34,1.0,Gene Spring,Business,Imperial College London,Turkey,281
+Mary McKillip,652815,NEUROSCIENCE,5004,79,1.0,Sarah Newsom,Business,State University of New York Albany,United Kingdom,101
+Vicki Browne,861880,INDUSTRIAL AND ORGANIZATIONAL PSYCHOLOGY,2401,60,1.0,Christopher Yarger,Business,Dublin City University,China,274
+Ronald McCullough,209991,FINE ARTS,5206,62,0.5,Tina Mangrum,Psychology & Social Work,Saint Louis University,Japan,356
+Sarah Grice,407236,ECOLOGY,2307,32,0.5,Marion Wiggin,Humanities & Liberal Arts,Polytechnic University of Catalonia,United Kingdom,766
+Virginia Daniels,697097,OCEANOGRAPHY,2306,15,1.0,Charles Blankenship,Computers & Mathematics,University of Copenhagen,United States of America,311
+Alan Leonard,851673,MISCELLANEOUS BIOLOGY,5599,16,0.5,Leonard Lonergan,Social Science,Alexandria University,Japan,379
+Keith Robinson,652063,COMPUTER ADMINISTRATION MANAGEMENT AND SECURITY,5507,24,1.0,Victor Omalley,Agriculture & Natural Resources,Yokohama City University,Germany,153
+Angela Santacruz,240131,FINANCE,2417,66,1.0,Kathryn Ellis,Engineering,Deakin University,China,22
+John Tao,443004,POLITICAL SCIENCE AND GOVERNMENT,6206,56,1.0,Elizabeth Baker,Engineering,Medical College of Wisconsin,India,22
+Scott Wyche,833921,ATMOSPHERIC SCIENCES AND METEOROLOGY,5401,74,1.0,Johnathan Danner,Agriculture & Natural Resources,Pusan National University,United States of America,569
+Raymond Stork,591199,COMMUNICATION DISORDERS SCIENCES AND SERVICES,2406,38,1.0,Gaston Florian,Arts,Aalborg University,Brazil,626
+Frances Ferguson,193635,GENETICS,6107,63,0.5,Sergio Orem,Education,Swedish University of Agricultural Sciences,Canada,297
+Joseph Fuqua,206675,HOSPITALITY MANAGEMENT,2602,91,1.0,Helen Leonard,Biology & Life Science,University of Manchester,Netherlands,318
+Albert Endres,295472,PHARMACOLOGY,5505,8,1.0,Hazel Sims,Physical Sciences,University of Melbourne,Sweden,383
+Edward Gentry,921850,ANIMAL SCIENCES,5205,85,0.5,Cathy Dominquez,Biology & Life Science,National Taiwan Normal University,United States of America,669
+Mildred Brooks,753303,ENGINEERING AND INDUSTRIAL MANAGEMENT,6103,56,0.5,Kay Scott,Psychology & Social Work,Southern Cross University,Switzerland,671
+Michael Anderson,899211,BIOLOGY,6209,67,0.5,Nell Reid,Industrial Arts & Consumer Services,University of Oklahoma,South Korea,802
+Christopher Payne,433994,MISCELLANEOUS AGRICULTURE,2399,60,1.0,Teri Peete,Humanities & Liberal Arts,University of Jordan,Japan,739
+Anthony Quintero,592629,MISCELLANEOUS PSYCHOLOGY,5001,25,1.0,Zane Hickman,Physical Sciences,Bayreuth University,New Zealand,514
+Maria Rosenzweig,456682,INDUSTRIAL AND MANUFACTURING ENGINEERING,2602,24,1.0,Jimmy Farmer,Engineering,University of Tokyo,South Korea,158
+James Greene,978654,SECONDARY TEACHER EDUCATION,2404,1,1.0,Angela Warren,Business,Autonomous University of Madrid,United States of America,23
+Retta Rowell,972432,CHEMICAL ENGINEERING,3701,0,0.5,Modesta Peeples,Computers & Mathematics,Yeshiva University,Canada,358
+Wilma Russell,745299,SECONDARY TEACHER EDUCATION,6108,58,0.5,Jo Malinowski,Industrial Arts & Consumer Services,University of Waikato,India,595
+Freddy Hartman,784633,ANTHROPOLOGY AND ARCHEOLOGY,3609,87,0.5,Mary Zhang,Education,Illinois Institute of Technology,Taiwan,278
+Ann Smith,943611,GENERAL ENGINEERING,4002,95,1.0,Michael Yates,Biology & Life Science,University of Antwerp,Bangladesh,401
+Lonnie Biggs,350270,CIVIL ENGINEERING,2303,46,0.5,Matthew Delong,Engineering,National Taiwan University of Science and Technology (Taiwan Tech),United States of America,792
+Ben Janousek,470630,PLANT SCIENCE AND AGRONOMY,6102,94,0.5,Monica Carroll,Computers & Mathematics,Aberystwyth University,Canada,536
+June Hartley,696978,COMPUTER AND INFORMATION SYSTEMS,2412,59,0.5,Gaston Florian,Humanities & Liberal Arts,Ural Federal University,China,521
+Debra Boatright,138463,MISCELLANEOUS PSYCHOLOGY,2901,46,1.0,Katherine Cochrane,Health,University of Antwerp,Italy,349
+Betsy Vaughn,121797,TREATMENT THERAPY PROFESSIONS,5203,70,1.0,Glenn Page,Engineering,University of Wisconsin-Milwaukee,Russian Federation,519
+Rose McWilliams,355182,GENERAL ENGINEERING,2901,11,0.5,Paul Walton,Industrial Arts & Consumer Services,University of South Africa,South Africa,271
+Lorie Lagunas,369006,MATERIALS ENGINEERING AND MATERIALS SCIENCE,6207,44,0.5,Gladys Blankenship,Education,Tohoku University,Spain,679
+Douglas Rodriguez,121653,MATERIALS ENGINEERING AND MATERIALS SCIENCE,1401,94,1.0,Dorothy Spaulding,Social Science,Catholic University of the Sacred Heart,Australia,719
+Keith Robinson,101729,MATHEMATICS,3201,66,0.5,Darnell Moore,Industrial Arts & Consumer Services,"University of California, Los Angeles",China,520
+Carey Cacho,764420,OPERATIONS LOGISTICS AND E-COMMERCE,5005,95,1.0,John Martin,Social Science,Carleton University,United States of America,418
+Clifford Wiggins,135802,MASS MEDIA,6203,24,0.5,Trisha Bramblett,Business,Harvard University,United States of America,156
+John Singleton,912170,DRAMA AND THEATER ARTS,2410,19,1.0,Lauren Burriss,Computers & Mathematics,Gifu University,Canada,694
+Maya Bowers,142443,GENERAL BUSINESS,2105,37,0.5,Joanna Tyson,Education,Ajou University,Greece,431
+Retta Rowell,525474,BIOMEDICAL ENGINEERING,2405,25,1.0,Timothy Hooper,Education,The Open University,Russian Federation,26
+David Bryson,744770,PHARMACOLOGY,2407,68,0.5,Carey Cacho,Business,University of Cologne,United Kingdom,613
+Ronald Collins,671749,COMMUNICATIONS,6109,29,1.0,Faustino Vicknair,Business,Huazhong University of Science and Technology,United States of America,285
+John Nicholson,841177,INDUSTRIAL AND MANUFACTURING ENGINEERING,1106,86,0.5,Michael Wu,Education,"University of Chemistry and Technology, Prague",United States of America,167
+Pedro Boyer,424233,OTHER FOREIGN LANGUAGES,4000,86,0.5,Brian Reyes,Humanities & Liberal Arts,Amrita University,Belgium,133
+Matthew Coleman,116162,ELEMENTARY EDUCATION,5002,18,0.5,Gayle Schneider,Humanities & Liberal Arts,Tilburg University,United Kingdom,339
+Eduardo Hall,397494,MISCELLANEOUS FINE ARTS,5301,65,0.5,Era Rivera,Physical Sciences,Goethe University Frankfurt,France,393
+David Chess,185709,MISCELLANEOUS PSYCHOLOGY,5202,88,1.0,Allen Ramirez,Health,Leiden University,Italy,217
+Erika Smith,606126,COMPUTER NETWORKING AND TELECOMMUNICATIONS,5503,65,1.0,Norman Randolph,Biology & Life Science,Beijing Institute of Technology,United States of America,103
+Ralph Harris,251680,PHYSIOLOGY,5200,56,0.5,Mildred Brooks,Humanities & Liberal Arts,Pontifical Catholic University of Rio de Janeiro (PUC-Rio),Japan,181
+Hugh Perkins,701960,GEOLOGICAL AND GEOPHYSICAL ENGINEERING,2399,56,0.5,Richard Martin,Computers & Mathematics,Federal University of Lavras,United States of America,468
+Erika Smith,192127,MECHANICAL ENGINEERING,2301,0,0.5,Chad Pardee,Biology & Life Science,Vienna University of Technology,South Korea,64
+Brice Suggs,986801,PETROLEUM ENGINEERING,6212,85,1.0,Leslie Gadson,Law & Public Policy,University of Surrey,Saudi Arabia,607
+Luis Cuevas,270433,NATURAL RESOURCES MANAGEMENT,4001,64,0.5,John Huang,Industrial Arts & Consumer Services,Indian Institute of Technology Bombay,Canada,725
+James Shearer,339275,PHILOSOPHY AND RELIGIOUS STUDIES,1104,88,0.5,Robert Long,Biology & Life Science,Aalto University,Sweden,810
+Don Aguirre,591715,PHILOSOPHY AND RELIGIOUS STUDIES,5206,69,1.0,Grace Rivera,Physical Sciences,Cardiff University,China,614
+Hubert Whitaker,326269,ARCHITECTURE,1902,44,0.5,Paul Walton,Arts,University of Texas at El Paso,Uganda,498
+Ronald Hernandez,727722,ATMOSPHERIC SCIENCES AND METEOROLOGY,3501,19,0.5,Maria Manjarrez,Law & Public Policy,Beijing Institute of Technology,Australia,668
+Pearl Belton,897095,COMPUTER SCIENCE,3201,89,0.5,Jamika Smith,Engineering,Portland State University,Italy,521
+James Hagan,954985,JOURNALISM,5599,11,0.5,James Smith,Social Science,University of Porto,United States of America,528
+Robert Stewart,140198,OCEANOGRAPHY,2415,63,0.5,John Bryant,Computers & Mathematics,University of Wisconsin,Finland,300
+Andrew Taylor,467588,GENERAL SOCIAL SCIENCES,6200,42,1.0,James Smith,Humanities & Liberal Arts,Tampere University of Technology,South Korea,686
+James Dillon,384416,POLITICAL SCIENCE AND GOVERNMENT,2101,29,0.5,Scott Schnell,Physical Sciences,Pompeu Fabra University,Hong Kong,482
+Michelle Bland,647274,ECOLOGY,6100,35,0.5,Lonnie Ramos,Humanities & Liberal Arts,Carleton University,Italy,759
+John Tao,653851,CHEMICAL ENGINEERING,3702,83,1.0,Modesta Peeples,Agriculture & Natural Resources,University of Southern Denmark,Taiwan,406
+Elizabeth Wilson,166610,ECOLOGY,6200,88,0.5,James Brennan,Humanities & Liberal Arts,Joseph Fourier University,Brazil,335
+Maria Rosenzweig,370769,GEOLOGY AND EARTH SCIENCE,4801,7,1.0,Sybil White,Psychology & Social Work,Pierre and Marie Curie University,United States of America,659
+Francis Rouse,142904,FINANCE,2411,41,1.0,Ralph Harris,Law & Public Policy,Indian Institute of Technology Guwahati,United Kingdom,541
+David Barnes,183268,MECHANICAL ENGINEERING,4007,22,0.5,Marion Wiggin,Business,Khon Kaen University,New Zealand,216
+Amber Hall,184772,PETROLEUM ENGINEERING,6206,91,0.5,Toni McGriff,Health,University of Ulsan,Republic of Ireland,264
+Darnell Moore,788325,MISCELLANEOUS BUSINESS & MEDICAL ADMINISTRATION,6099,51,1.0,Jennifer Thomas,Computers & Mathematics,University of Debrecen,United States of America,730
+Keith Robinson,934132,FOOD SCIENCE,5008,94,0.5,Lisa Gipson,Health,Osaka City University,Switzerland,402
+Hugh Perkins,944174,AGRICULTURAL ECONOMICS,6003,0,0.5,Daniel Lara,Biology & Life Science,University of Minnesota,Cyprus,598
+Pedro Boyer,990072,NURSING,2305,67,1.0,Robert Halley,Engineering,University of Iceland,United States of America,464
+Sammy Smith,496156,GEOSCIENCES,5102,45,0.5,Anita Hernandez,Engineering,South China University of Technology,Spain,646
+William Mazur,377111,ECOLOGY,2400,90,0.5,Adela Kowalski,Engineering,University of Erlangen-Nuremberg,United States of America,711
+Altagracia Lester,693078,ENGINEERING TECHNOLOGIES,2504,77,0.5,Pamela Gammon,Agriculture & Natural Resources,University of Porto,United States of America,706
+Tyson McVay,158476,ENGINEERING MECHANICS PHYSICS AND SCIENCE,1401,34,1.0,Cynthia Schreiber,Computers & Mathematics,Taipei Medical University,South Korea,565
+Kelley Kawamura,116449,MISCELLANEOUS BUSINESS & MEDICAL ADMINISTRATION,2310,34,0.5,Maria Nelson,Engineering,National Research Nuclear University MePhI,Germany,685
+Loretta Hopkins,721892,AGRICULTURAL ECONOMICS,1105,7,0.5,Heather Greenwood,Psychology & Social Work,University of Reading,France,114
+Norman Randolph,642651,INTERNATIONAL RELATIONS,2313,34,0.5,Sherry Taylor,Computers & Mathematics,Marche Polytechnic University,Germany,323
+Tara Porter,939886,SPECIAL NEEDS EDUCATION,5404,25,0.5,Tara Porter,Computers & Mathematics,Johannes Gutenberg University of Mainz,United States of America,220
+Keith Smith,958073,ENGLISH LANGUAGE AND LITERATURE,5102,63,0.5,Alisha Miles,Psychology & Social Work,University of Edinburgh,Canada,670
+Jim Smith,996406,POLITICAL SCIENCE AND GOVERNMENT,1901,45,1.0,Rose Sullivan,Engineering,Rensselaer Polytechnic Institute,Italy,315
+Lina Cotton,488542,MECHANICAL ENGINEERING,6402,1,0.5,Edna Hall,Health,Howard University,United Kingdom,64
+Nell Reid,410159,CRIMINOLOGY,5301,72,0.5,Frank Makela,Humanities & Liberal Arts,University of Medicine and Dentistry of New Jersey,Taiwan,259
+Tammy Warren,539732,SCHOOL STUDENT COUNSELING,5501,86,0.5,Emily Garcia,Physical Sciences,University of the Basque Country,Japan,810
+Ashley Garcia,111736,ART HISTORY AND CRITICISM,6299,56,0.5,Marvin Henderson,Communications & Journalism,Sapienza University of Rome,China,375
+Bernadine Hayes,953134,AREA ETHNIC AND CIVILIZATION STUDIES,6204,98,0.5,Adam Kelley,Education,National Autonomous University of Mexico,Belgium,110
+Jennifer Peters,596195,ARCHITECTURAL ENGINEERING,6006,38,1.0,Rob Olson,Biology & Life Science,University of Crete,France,141
+Charles Blankenship,764899,ARCHITECTURE,6107,20,0.5,Susie Stites,Arts,University of Milan-Bicocca,Russian Federation,734
+Linda Hogue,281698,COMMUNITY AND PUBLIC HEALTH,6002,62,0.5,Travis Thurman,Agriculture & Natural Resources,University of Nottingham,Czech Republic,490
+Nathan Suzuki,820852,NAVAL ARCHITECTURE AND MARINE ENGINEERING,6099,80,0.5,Lucas Campbell,Health,University of Texas at Austin,Australia,75
+Phyllis Briggs,878029,COSMETOLOGY SERVICES AND CULINARY ARTS,6299,29,1.0,Suzette Childs,Engineering,University of Warsaw,Italy,586
+Mildred Jennings,855220,GEOSCIENCES,6206,81,0.5,Luis Cuevas,Agriculture & Natural Resources,University of Ulsan,Australia,177
+Connie Clow,945273,PHYSICS,2404,46,0.5,Retha Smith,Health,Stockholm University,Taiwan,6
+Mary McKillip,154421,HUMAN SERVICES AND COMMUNITY ORGANIZATION,1101,28,0.5,Ben Janousek,Business,Sophia University,Switzerland,634
+Tony Ragsdale,990437,ANIMAL SCIENCES,2001,17,1.0,Elizabeth Weldon,Engineering,University of Basel,United States of America,503
+Robin Bradley,101752,TRANSPORTATION SCIENCES AND TECHNOLOGIES,6002,94,1.0,Frank Maniscalco,Education,University of Sydney,Norway,541
+Lonnie Biggs,567715,MASS MEDIA,5000,79,0.5,Eileen Pierce,Engineering,Keio University,Canada,713
+Gregory Byrd,203499,FORESTRY,6205,35,1.0,Clifford Wiggins,Engineering,University of KwaZulu-Natal,New Zealand,88
+John Westerfield,168858,COUNSELING PSYCHOLOGY,5201,35,0.5,Nancy Elliott,Health,Ocean University of China,United States of America,264
+Luis Cuevas,776585,EDUCATIONAL ADMINISTRATION AND SUPERVISION,1902,83,0.5,Robert Bohrer,Social Science,Federal University of Paraná (UFPR),United Kingdom,730
+Jo Malinowski,286315,AEROSPACE ENGINEERING,3604,28,1.0,Zachary Melendez,Social Science,Alexandria University,Sweden,473
+Kimberly Hays,896753,MEDICAL ASSISTING SERVICES,6104,89,1.0,Kevin Page,Biology & Life Science,University of Hull,Morocco,669
+Lois Miller,947661,MATERIALS ENGINEERING AND MATERIALS SCIENCE,4801,80,0.5,Wayne Thomas,Engineering,Liverpool John Moores University,United Kingdom,416
+Donald Walker,876219,MISCELLANEOUS FINE ARTS,5205,7,0.5,Alan Perez,Psychology & Social Work,Laval University,United States of America,784
+Andrew Griffin,188151,INTERNATIONAL RELATIONS,5006,18,1.0,Marylyn Fisher,Arts,University of the Basque Country,United States of America,217
+Anne Corbett,385100,ELECTRICAL ENGINEERING TECHNOLOGY,6005,20,1.0,Carly Donaldson,Computers & Mathematics,University of South Australia,United States of America,161
+Mark Wroblewski,412698,POLITICAL SCIENCE AND GOVERNMENT,2301,44,1.0,Dorothy Fernandez,Social Science,University of Belgrade,Australia,314
+Shirley Kelly,902102,SOIL SCIENCE,6210,85,1.0,Kelly Patten,Arts,Gdańsk University of Technology,Canada,183
+Elizabeth Castillo,189784,NUTRITION SCIENCES,5599,47,0.5,Richard Crossley,Psychology & Social Work,Marche Polytechnic University,Greece,393
+Judith Miller,193423,ENGINEERING AND INDUSTRIAL MANAGEMENT,6109,57,1.0,Matthew Denzer,Law & Public Policy,Alexandria University,France,563
+Felix McMullen,989481,PHILOSOPHY AND RELIGIOUS STUDIES,2402,4,0.5,Joseph Rives,Computers & Mathematics,University of Burgundy,Slovenia,73
+David Bensen,721603,COMMUNITY AND PUBLIC HEALTH,5201,7,0.5,Matthew Parker,Humanities & Liberal Arts,Washington University in St Louis,United Kingdom,482
+Jacqueline Ferris,260494,LIBERAL ARTS,2901,98,0.5,Lonnie Ramos,Agriculture & Natural Resources,University of Seoul,Greece,73
+Brian Forcier,942324,PHILOSOPHY AND RELIGIOUS STUDIES,3605,85,0.5,Kevin Richardson,Education,De Montfort University,Singapore,225
+Robert Gray,956214,FINE ARTS,1902,33,1.0,Susan Welsh,Humanities & Liberal Arts,"University of California, Santa Barbara",United States of America,686
+Megan Castillo,613608,HEALTH AND MEDICAL ADMINISTRATIVE SERVICES,6204,64,1.0,Kathy Wahl,Industrial Arts & Consumer Services,University of Jyväskylä,Canada,308
+Wanda Harp,818498,MISCELLANEOUS SOCIAL SCIENCES,2599,32,0.5,Philip Woodall,Industrial Arts & Consumer Services,University of Canterbury,Colombia,403
+Tammy Warren,301507,MATERIALS ENGINEERING AND MATERIALS SCIENCE,5402,49,0.5,Kenneth An,Communications & Journalism,Sapienza University of Rome,United States of America,41
+Matthew Gurule,816243,COMMUNICATIONS,2306,74,1.0,Richard Moore,Social Science,University of Amsterdam,United States of America,531
+Julian Kay,132198,NUCLEAR ENGINEERING,5402,37,1.0,Calvin Parker,Biology & Life Science,University of Milan-Bicocca,New Zealand,537
+Audrey Bandy,546362,COMPUTER ADMINISTRATION MANAGEMENT AND SECURITY,5503,88,1.0,James Brooks,Computers & Mathematics,Saitama University,Lithuania,228
+Nathan Suzuki,566717,MULTI-DISCIPLINARY OR GENERAL SCIENCE,2301,10,1.0,Patricia Callender,Agriculture & Natural Resources,Lappeenranta University of Technology,United Kingdom,94
+Katina Joslyn,693743,ENGLISH LANGUAGE AND LITERATURE,2312,10,0.5,Terrence Wiley,Physical Sciences,Beijing Institute of Technology,United States of America,316
+Marianne McCoy,160566,STATISTICS AND DECISION SCIENCE,5901,99,1.0,Betty Wathen,Education,University of Porto,Canada,527
+Imogene Tanaka,814398,ARCHITECTURE,2001,47,0.5,Cynthia Schreiber,Arts,University of Valencia,Italy,579
+Dianne Place,209190,INTERNATIONAL RELATIONS,3611,90,0.5,Margaret Mondragon,Physical Sciences,University of Milan,Brazil,541
+Ruth Bullock,998677,SOCIAL WORK,3700,30,0.5,See Ragsdale,Humanities & Liberal Arts,Pontifical Catholic University of Chile,United States of America,321
+Clyde Navarre,785383,VISUAL AND PERFORMING ARTS,1302,31,0.5,Jennifer Collins,Engineering,Polytechnic University of Turin,South Africa,159
+William Theiss,935727,ADVERTISING AND PUBLIC RELATIONS,2102,55,1.0,Edward Cooper,Health,William & Mary,Italy,525
+Frank Maniscalco,866719,LIBERAL ARTS,2415,96,1.0,Eileen Williams,Business,Wuhan University of Technology,Brazil,142
+David Barnes,903047,GEOLOGY AND EARTH SCIENCE,5901,61,1.0,Nancy Vickers,Computers & Mathematics,Illinois Institute of Technology,United States of America,366
+Heather Gonzalez,568808,AREA ETHNIC AND CIVILIZATION STUDIES,6402,76,0.5,Victoria Pena,Education,Aalborg University,France,250
+Lee Scanlan,928740,PHARMACOLOGY,1104,74,0.5,Jack Jenkins,Agriculture & Natural Resources,Vrije Universiteit Brussel,Italy,274
+Cora Marguez,977162,MEDICAL ASSISTING SERVICES,1903,88,1.0,Louis Brown,Computers & Mathematics,Queensland University of Technology,Hong Kong,176
+Mark Thompson,907309,ACCOUNTING,6100,20,1.0,Manuel Cuthbertson,Engineering,São Paulo State University (UNESP),Germany,363
+Patricia Shannon,893249,PHARMACOLOGY,3701,11,0.5,Herbert Threet,Computers & Mathematics,RMIT University,United States of America,415
+Robert Little,662352,PHYSICAL FITNESS PARKS RECREATION AND LEISURE,2307,6,1.0,Gene Spring,Agriculture & Natural Resources,Portland State University,United Kingdom,480
+Lee Scanlan,468891,INDUSTRIAL PRODUCTION TECHNOLOGIES,6205,52,0.5,Pedro Boyer,Computers & Mathematics,University of Science and Technology of China,Japan,22
+Jack Hyde,386164,COMPOSITION AND RHETORIC,2603,2,0.5,Scott Gentry,Arts,University of Chile,New Zealand,365
+Robert Marsh,972186,ELECTRICAL ENGINEERING TECHNOLOGY,2105,32,0.5,Lee McKay,Physical Sciences,Shinshu University,United States of America,464
+Keith Smith,317364,ARCHITECTURAL ENGINEERING,2415,60,1.0,Patrica Jones,Computers & Mathematics,George Washington University,United States of America,562
+Charles Carter,589050,ENGINEERING MECHANICS PHYSICS AND SCIENCE,2307,69,1.0,David Atkinson,Industrial Arts & Consumer Services,UiT The Arctic University of Norway,Spain,283
+Ethel Begley,161933,STATISTICS AND DECISION SCIENCE,3201,47,1.0,Matthew Coleman,Biology & Life Science,University of New South Wales,United Kingdom,78
+Earl Cyr,978646,ENGLISH LANGUAGE AND LITERATURE,2308,55,1.0,Manuel Lopez,Biology & Life Science,University of Waterloo,France,75
+Kenneth Burke,749375,THEOLOGY AND RELIGIOUS VOCATIONS,3601,41,1.0,Dessie Felton,Health,Maastricht University,Japan,87
+Angela Freeman,281782,STUDIO ARTS,5206,37,1.0,Michael Bernard,Industrial Arts & Consumer Services,Seoul National University,Germany,634
+Bertha Hirsch,464090,ELECTRICAL ENGINEERING,4007,3,1.0,Cynthia Smith,Health,University of Urbino Carlo Bo,Germany,706
+Susan Ramirez,615014,MISCELLANEOUS BIOLOGY,4000,17,1.0,William Theiss,Communications & Journalism,Kazan Federal University,United States of America,378
+Tiffany Morris,271527,SCHOOL STUDENT COUNSELING,5206,35,1.0,Lucas Palmer,Education,Florida Institute of Technology,Italy,248
+Irene Wagner,833042,GENERAL AGRICULTURE,2405,58,1.0,Jesse Burt,Computers & Mathematics,Technical University of Madrid,China,711
+Gladys Melo,328535,MARKETING AND MARKETING RESEARCH,2300,21,0.5,Tony Ragsdale,Humanities & Liberal Arts,Edith Cowan University,Ghana,711
+Stephen Marquis,187863,BIOLOGY,5005,97,1.0,Dennis Atwood,Humanities & Liberal Arts,University of Pretoria,United States of America,252
+Tara Finney,195489,ACCOUNTING,4006,11,0.5,Walter Gooding,Engineering,"University of California, San Diego",Singapore,775
+David Guynn,991066,PHYSICAL FITNESS PARKS RECREATION AND LEISURE,6002,6,1.0,Scarlett Lockhart,Arts,University of Alaska Fairbanks,United States of America,487
+Herbert Threet,128531,LANGUAGE AND DRAMA EDUCATION,2412,0,0.5,Charles Cortez,Psychology & Social Work,Amirkabir University of Technology,Japan,516
+Gene Spring,223234,MISCELLANEOUS AGRICULTURE,5301,22,1.0,Jennifer Fish,Business,Oregon State University,Japan,23
+George Jackson,423619,NEUROSCIENCE,2404,96,0.5,Zachary Anderson,Industrial Arts & Consumer Services,Pierre and Marie Curie University,Sweden,121
+Scott Kaye,498266,"ELECTRICAL, MECHANICAL, AND PRECISION TECHNOLOGIES AND PRODUCTION",2406,37,1.0,Lina Cotton,Business,Juntendo University,Brazil,592
+Barbara Dunlop,466037,FINE ARTS,5402,2,0.5,Clement Rother,Computers & Mathematics,Universiti Sains Malaysia,United States of America,111
+Charles Cortez,184814,AEROSPACE ENGINEERING,6200,45,1.0,Betty Reiss,Agriculture & Natural Resources,University of North Carolina at Greensboro,Greece,749
+Stephanie Martinez,451857,AREA ETHNIC AND CIVILIZATION STUDIES,4001,11,0.5,Joseph Springer,Health,University of Turku,Poland,305
+Ryan Crosby,209837,ENVIRONMENTAL ENGINEERING,2502,39,0.5,Elizabeth Chen,Arts,Texas Tech University,Spain,709
+William Clark,820347,BOTANY,2502,87,0.5,Karen Mitchell,Social Science,Yokohama National University,Italy,197
+Robert Long,526210,SECONDARY TEACHER EDUCATION,1103,77,0.5,April Hawkins,Biology & Life Science,Montpellier University,China,519
+Glenn Page,237246,INTERNATIONAL BUSINESS,2499,63,0.5,Clement Rother,Biology & Life Science,K.N. Toosi University of Technology,Kenya,92
+Shana Labbe,717936,GENERAL SOCIAL SCIENCES,1199,80,0.5,Katherine Cochrane,Psychology & Social Work,McMaster University,Poland,497
+Jose Murphy,686717,FINANCE,6108,84,0.5,Dessie Felton,Business,Justus Liebig University Giessen,Brazil,743
+Ann Smith,570436,ARCHITECTURAL ENGINEERING,6207,4,0.5,Patricia Callender,Education,Johannes Gutenberg University of Mainz,New Zealand,630
+Randy Henderson,588676,COSMETOLOGY SERVICES AND CULINARY ARTS,2404,98,0.5,Chad Pardee,Humanities & Liberal Arts,University of Rome II – Tor Vergata,United Kingdom,49
+Cynthia Schreiber,951617,OPERATIONS LOGISTICS AND E-COMMERCE,2312,67,1.0,Bobbie Harp,Engineering,China University of Petroleum (Beijing),United States of America,635
+Gladys Melo,187351,COURT REPORTING,2414,24,0.5,Manuel Cuthbertson,Business,Scuola Normale Superiore di Pisa,Finland,441
+Gene Spring,321274,MEDICAL TECHNOLOGIES TECHNICIANS,4000,51,1.0,Vern Bise,Law & Public Policy,Jagiellonian University,Spain,333
+Gloria Buckley,698317,BUSINESS MANAGEMENT AND ADMINISTRATION,4001,68,0.5,Eric Marble,Engineering,Andhra University,Italy,449
+James Pepper,365382,CRIMINOLOGY,6207,56,1.0,Susan Ramirez,Humanities & Liberal Arts,Federal University of Rio de Janeiro,France,89
+Teri Peete,376494,ANTHROPOLOGY AND ARCHEOLOGY,1301,44,0.5,Refugio Scheele,Humanities & Liberal Arts,Bangor University,Sweden,517
+James Brooks,548146,HEALTH AND MEDICAL PREPARATORY PROGRAMS,1401,70,0.5,Lorene Martin,Engineering,Savitribai Phule Pune University,France,86
+Jacob Truong,364542,CRIMINOLOGY,5206,60,1.0,Mary Morgan,Psychology & Social Work,University of the Witwatersrand,Italy,767
+Ernestine Crowe,519723,INDUSTRIAL AND ORGANIZATIONAL PSYCHOLOGY,5901,79,1.0,Kimberly Ruano,Social Science,Technical University of Dortmund,South Korea,680
+Lorene Martin,113938,GENERAL MEDICAL AND HEALTH SERVICES,5503,81,1.0,Adrian Romeo,Physical Sciences,University of Science and Technology of China,Brazil,386
+Nancy Elliott,688483,NUTRITION SCIENCES,2309,98,1.0,Betty Sewell,Humanities & Liberal Arts,KTH Royal Institute of Technology,South Korea,373
+Chuck Mahoney,610438,ZOOLOGY,6211,37,1.0,Angeline Sweeny,Biology & Life Science,Renmin University of China,Japan,562
+Mary Bridges,129470,CRIMINOLOGY,5004,36,1.0,Roland Swindler,Engineering,Duke University,France,738
+William Baillargeon,554423,SOCIAL PSYCHOLOGY,3302,92,0.5,Greg Gerard,Biology & Life Science,Delft University of Technology,South Korea,520
+Sherman Little,185522,MICROBIOLOGY,2404,66,0.5,Ricky Martin,Communications & Journalism,Aalto University,Japan,46
+James Delong,552474,MUSIC,4006,20,1.0,Manuel Cuthbertson,Engineering,University of Oslo,Japan,643
+Gerardo Sellman,561873,SECONDARY TEACHER EDUCATION,1401,96,0.5,Rachel Gunderson,Social Science,Austral University of Chile,United Kingdom,451
+Matthew Denzer,773852,MATERIALS SCIENCE,2106,42,1.0,Amado Head,Engineering,Federal University of Viçosa,South Korea,339
+Robert Marsh,304375,ECONOMICS,6000,34,1.0,Timothy Moore,Psychology & Social Work,Montana State University,China,544
+Tony Ragsdale,450511,POLITICAL SCIENCE AND GOVERNMENT,3201,19,0.5,Joyce Tschida,Physical Sciences,University of Liège,France,676
+James Vath,904848,EARLY CHILDHOOD EDUCATION,5501,72,1.0,Katina Joslyn,Arts,Quaid-i-azam University,Brazil,307
+John Nicholson,704632,ASTRONOMY AND ASTROPHYSICS,5301,95,1.0,Michelle Bland,Social Science,University of Turin,Poland,756
+Michael Anderson,634446,ART HISTORY AND CRITICISM,3608,57,1.0,Rhiannon Pelletier,Biology & Life Science,University of Iceland,Russian Federation,810
+Willia Williamson,133467,CLINICAL PSYCHOLOGY,6200,7,0.5,Robert Bellamy,Psychology & Social Work,Sheffield Hallam University,France,17
+Luis Barber,409858,ENGINEERING MECHANICS PHYSICS AND SCIENCE,1401,62,0.5,James Pepper,Education,Chang Gung University,Sweden,150
+Wilma Russell,629773,GENERAL EDUCATION,2307,5,1.0,Katrina McKinney,Health,Aalto University,United States of America,30
+William Baillargeon,444655,MASS MEDIA,2406,8,0.5,John Mendoza,Education,Catholic University of the Sacred Heart,Bangladesh,254
+Shelley Lubbers,521477,GENETICS,2504,25,0.5,Leonor Cook,Education,Jadavpur University,United States of America,327
+Cinthia McGurk,682713,LIBRARY SCIENCE,2412,15,0.5,Maria Manjarrez,Business,University of Leeds,Germany,11
+Vickie Lafferty,500708,ASTRONOMY AND ASTROPHYSICS,6205,87,0.5,Rodney Badillo,Health,Prince of Songkla University,Republic of Ireland,247
+Jack Wilson,470982,TRANSPORTATION SCIENCES AND TECHNOLOGIES,1903,57,1.0,Patrick Dawson,Social Science,Central Queensland University,Japan,812
+Albert Cash,117349,COMMUNICATIONS,5701,48,1.0,Judy Nichols,Biology & Life Science,Istanbul University,Greece,495
+Kenneth An,802117,PUBLIC ADMINISTRATION,6000,27,0.5,Susan Powell,Engineering,"University of California, Riverside",Turkey,282
+John Carey,883606,COSMETOLOGY SERVICES AND CULINARY ARTS,6000,46,0.5,Jeffrey Meyer,Biology & Life Science,Ewha Womans University,Sweden,515
+Robert Stewart,696501,ARCHITECTURAL ENGINEERING,2419,26,1.0,Frank Putnam,Business,Queen Mary University of London,Slovenia,110
+Megan Castillo,793560,MECHANICAL ENGINEERING RELATED TECHNOLOGIES,6001,22,1.0,Betty Reiss,Physical Sciences,Kyungpook National University,Australia,545
+Matthew Denzer,921427,CHEMISTRY,4101,85,0.5,Charles Camacho,Education,Concordia University,United States of America,448
+Sammy Smith,563973,ENGINEERING TECHNOLOGIES,2105,58,0.5,Howard Martin,Law & Public Policy,Showa University,China,764
+Bertha Hirsch,164921,TRANSPORTATION SCIENCES AND TECHNOLOGIES,5504,100,1.0,Fabian Helms,Business,Pontifical Catholic University of Rio Grande do Sul (PUCRS),Denmark,415
+Karen Peter,655530,EDUCATIONAL ADMINISTRATION AND SUPERVISION,5007,90,1.0,Charlie Tarin,Arts,University of Geneva,Iran,215
+Donald Fletcher,796567,MASS MEDIA,6110,41,1.0,Gail Knox,Health,Iowa State University,China,38
+Michele Stockton,915212,COSMETOLOGY SERVICES AND CULINARY ARTS,2411,32,1.0,Robert Stewart,Education,University of Victoria,Switzerland,400
+Christopher Hansen,856483,ADVERTISING AND PUBLIC RELATIONS,2403,42,0.5,Michael Weller,Health,University of Iceland,Brazil,543
+Emily Garcia,521346,INFORMATION SCIENCES,3603,77,0.5,Angeline Sweeny,Arts,Hebrew University of Jerusalem,United States of America,333
+Lupe Oliver,164704,GENERAL MEDICAL AND HEALTH SERVICES,6212,77,1.0,Jay Broussard,Physical Sciences,Lille 1 University – Science and Technology,United States of America,810
+Tammy Stewart,128395,ENGINEERING TECHNOLOGIES,2501,80,0.5,Lashawn Smith,Education,Duke University,South Africa,460
+Danyel Barnes,437942,GENERAL MEDICAL AND HEALTH SERVICES,4002,41,1.0,Estelle Cowart,Biology & Life Science,Ajou University,United Kingdom,8
+James Dillon,647709,MATHEMATICS TEACHER EDUCATION,6207,59,1.0,Betsy Vaughn,Computers & Mathematics,Maastricht University,United Kingdom,268
+George Torres,974077,HEALTH AND MEDICAL ADMINISTRATIVE SERVICES,2502,52,0.5,Roman Newman,Biology & Life Science,Wuhan University of Technology,Spain,728
+Thomas Jessup,872495,ENGINEERING AND INDUSTRIAL MANAGEMENT,5003,84,0.5,Clifford Wiggins,Engineering,National Taiwan Ocean University,Hong Kong,566
+Michael Concepcion,257547,ART AND MUSIC EDUCATION,2404,18,0.5,James Brooks,Social Science,Peter the Great St Petersburg Polytechnic University,Russian Federation,420
+Barbara Lucio,490714,MILITARY TECHNOLOGIES,3606,63,1.0,Kerri Lowery,Engineering,Indian Institute of Technology Bombay,Republic of Ireland,142
+John Bryant,844167,PHARMACOLOGY,2106,5,1.0,John Langford,Engineering,Trinity College Dublin,Spain,328
+Dessie Felton,642390,COMPOSITION AND RHETORIC,2599,36,0.5,Jacob Truong,Agriculture & Natural Resources,Lancaster University,Germany,192
+Vernon Dickerson,124607,NAVAL ARCHITECTURE AND MARINE ENGINEERING,2411,80,0.5,Lillian Cleveland,Social Science,University of São Paulo,United States of America,115
+Rodney Badillo,792630,SOCIAL PSYCHOLOGY,1904,57,1.0,Kevin Basaldua,Business,Taras Shevchenko National University of Kyiv,Japan,1
+Heather Kendall,667895,COMPUTER PROGRAMMING AND DATA PROCESSING,2312,56,1.0,John Barber,Physical Sciences,University of Edinburgh,United States of America,516
+Betty King,238696,BOTANY,3202,29,1.0,James Vath,Health,New Mexico State University,China,54
+Joseph Larsen,145071,COMPUTER ENGINEERING,3601,85,0.5,Latonya Doll,Social Science,Humboldt University of Berlin,Japan,734
+Barbara Shelley,414673,INFORMATION SCIENCES,2409,24,1.0,Angela Warren,Physical Sciences,Tampere University of Technology,Czech Republic,708
+Gene Spring,807419,ACTUARIAL SCIENCE,6104,5,0.5,Jennifer Collins,Agriculture & Natural Resources,Georgia Institute of Technology,Italy,522
+Michael Fletcher,731075,MINING AND MINERAL ENGINEERING,2404,45,1.0,Silvia Vinyard,Industrial Arts & Consumer Services,Tallinn University of Technology,United States of America,693
+Norman Randolph,258406,ELECTRICAL ENGINEERING,1301,100,0.5,Michael Wu,Humanities & Liberal Arts,Missouri University of Science and Technology,China,33
+Sonia Hale,274724,INTERDISCIPLINARY SOCIAL SCIENCES,6402,70,0.5,Kary Coachman,Biology & Life Science,University of Southern Denmark,United States of America,155
+Adrian Romeo,876635,UNITED STATES HISTORY,5005,62,0.5,Shana Labbe,Biology & Life Science,National Autonomous University of Mexico,Japan,621
+Pauline Rowe,341862,NEUROSCIENCE,6211,96,1.0,James Greene,Education,University of South Australia,China,378
+Clifford Ladouceur,139157,INTERDISCIPLINARY SOCIAL SCIENCES,2501,72,0.5,Heather Greenwood,Biology & Life Science,University of Bonn,Poland,199
+Jack Hyde,776031,COMPUTER SCIENCE,2406,25,0.5,Krista Baker,Industrial Arts & Consumer Services,Federal University of São Carlos,China,684
+Lance Fossum,414461,ENVIRONMENTAL ENGINEERING,5402,61,1.0,Michelle Thompson,Business,Technion Israel Institute of Technology,Canada,302
+Lorene Calkins,531181,GEOLOGY AND EARTH SCIENCE,5206,79,0.5,John Martin,Health,Örebro University,Qatar,347
+Jennifer Peters,704517,COMMUNICATION DISORDERS SCIENCES AND SERVICES,1303,10,0.5,Patricia Floyd,Engineering,Bielefeld University,Spain,649
+Kenneth Marmon,430905,NEUROSCIENCE,2300,58,0.5,Stacey George,Engineering,University of Pennsylvania,Japan,190
+Lee McKay,718948,COMMUNICATION DISORDERS SCIENCES AND SERVICES,2412,77,1.0,Juanita Robinson,Agriculture & Natural Resources,Wuhan University of Technology,Germany,190
+Robert Halley,314996,CRIMINAL JUSTICE AND FIRE PROTECTION,3302,86,0.5,Jerry Monk,Education,Vienna University of Technology,Israel,698
+Nicholas Patridge,972725,ADVERTISING AND PUBLIC RELATIONS,5503,3,1.0,Wanda Harp,Engineering,China University of Geosciences (Wuhan),United Kingdom,58
+Stephanie Burrell,654194,GENETICS,1903,3,1.0,Gaston Florian,Physical Sciences,University of Tehran,Australia,719
+Chastity Wilson,182865,ZOOLOGY,6110,94,0.5,Francis Sanders,Physical Sciences,University of East Anglia,South Africa,507
+Donald Kay,820887,ART HISTORY AND CRITICISM,2311,41,0.5,Charles Burnett,Social Science,Indian Institute of Technology Bombay,United States of America,734
+Charles Camacho,151267,MISCELLANEOUS HEALTH MEDICAL PROFESSIONS,2301,88,1.0,Jason Emrick,Business,Bauman Moscow State Technical University,United Kingdom,159
+Eduardo Hall,576207,JOURNALISM,1303,23,1.0,Barbara Sanford,Health,Marche Polytechnic University,Australia,27
+Joseph Fuqua,891988,BUSINESS MANAGEMENT AND ADMINISTRATION,5500,81,0.5,Vivian Odell,Education,Ruhr University Bochum,Japan,517
+Jo Malinowski,807560,SOCIAL WORK,3602,71,1.0,Jamie Hardy,Health,Inha University,China,701
+Joseph Ford,100211,"ELECTRICAL, MECHANICAL, AND PRECISION TECHNOLOGIES AND PRODUCTION",5401,76,0.5,Grant Perry,Health,Federal University of São Carlos,Canada,385
+Sergio Orem,170751,FAMILY AND CONSUMER SCIENCES,6107,66,0.5,Robert Smith,Communications & Journalism,Panjab University,Brazil,206
+Mary Carroll,610510,AEROSPACE ENGINEERING,2411,10,0.5,Kimberly Hays,Education,Sheffield Hallam University,United States of America,354
+Brittany Taylor,202228,INTERCULTURAL AND INTERNATIONAL STUDIES,2599,83,1.0,Margie Remington,Engineering,Glasgow Caledonian University,United States of America,309
+Elizabeth Washington,663111,PHILOSOPHY AND RELIGIOUS STUDIES,5003,48,0.5,Vivian Odell,Psychology & Social Work,Osaka Prefecture University,United Kingdom,403
+Dalton Norfleet,566312,ASTRONOMY AND ASTROPHYSICS,2400,8,0.5,Brian Davis,Education,University of Trento,France,453
+Ralph Williams,824587,ADVERTISING AND PUBLIC RELATIONS,2504,28,0.5,Yvette Goheen,Humanities & Liberal Arts,Toyohashi University of Technology,China,341
+Rodney Badillo,573415,GENERAL ENGINEERING,3603,98,1.0,June Hartley,Engineering,Saitama University,United States of America,17
+Barbara Dunlop,983362,TEACHER EDUCATION: MULTIPLE LEVELS,2405,84,0.5,Barbara Dunlop,Engineering,Macquarie University,Australia,108
+Tara Finney,480244,FAMILY AND CONSUMER SCIENCES,5000,31,0.5,Todd Pruitt,Social Science,KTH Royal Institute of Technology,Canada,159
